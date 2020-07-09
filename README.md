@@ -14,7 +14,7 @@ Jay’s expertise demonstrated through strong growth and change cycles provides 
 Jay holds a BS in Materials Science and Engineering from North Carolina State University and grew up in Beaufort, North Carolina. His personal blog can be found at [fudge.org](https://fudge.org/).
 
 - 🔭 I’m currently working on [Engineering Technologists things](https://www.engineeringtechnologists.com)
-- 🌱 I’m currently learning [P4](https://p4.org]
+- 🌱 I’m currently learning [P4](https://p4.org)
 - 👯 I’m looking to collaborate on [Unique Voices in P. & O. podcast](https://anchor.fm/unique-voices-in-pando)
 - 🤔 I’m looking for help with [hiring Engineering Technologists](https://www.linkedin.com/in/jaycuthrell)
 - 💬 Ask me about [PowerOne](https://www.delltechnologies.com/en-us/converged-infrastructure/powerone.htm)
