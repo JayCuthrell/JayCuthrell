@@ -22,3 +22,4 @@ Jay holds a BS in Materials Science and Engineering from North Carolina State Un
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: According to loyalty trackers, I've lived several years in hotels over my professional career.
 
+_View the markdown used for this profile:_ [README.md](https://raw.githubusercontent.com/JayCuthrell/JayCuthrell/master/README.md)
