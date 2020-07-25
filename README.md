@@ -20,4 +20,4 @@ Jay holds a BS in Materials Science and Engineering from North Carolina State Un
 - 💬 Ask me about [PowerOne](https://www.delltechnologies.com/en-us/converged-infrastructure/powerone.htm)
 - 📫 How to reach me: [I prefer keybase.io but there are other options](https://jaycuthrell.com/contact/)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: According to loyalty trackers, I've lived several years in hotels over [my professional career](https://jaycuthrell.com/contact/)
+- ⚡ Fun fact: According to loyalty trackers, I've lived several years in hotels over [my professional career](https://www.linkedin.com/in/jaycuthrell)
