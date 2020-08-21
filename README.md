@@ -1,6 +1,6 @@
 ### Hi, I’m Jay Cuthrell 👋
 <!--
-**JayCuthrell/JayCuthrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JayCuthrell/JayCuthrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 -->
 * Servant Leader 
 * Corporate Free Safety 
@@ -13,10 +13,10 @@ Jay’s expertise demonstrated through strong growth and change cycles provides 
 
 Jay holds a BS in Materials Science and Engineering from North Carolina State University and grew up in Beaufort, North Carolina. His personal blog can be found at [fudge.org](https://fudge.org/).
 
-- ⚡ Fun fact: According to loyalty trackers, I've lived several years in hotels over [my professional career](https://www.linkedin.com/in/jaycuthrell)
+- ⚡ Fun fact: According to loyalty trackers, I've lived several years in hotels over [my professional career](https://jaycuthrell.com/resume/)
 - 📫 How to reach me: [I prefer keybase.io but there are other options](https://jaycuthrell.com/contact/)
 - 👯 I’m looking to collaborate on [Unique Voices in P. & O. podcast](https://anchor.fm/unique-voices-in-pando)
-- 🤔 I’m looking for help with [hiring Engineering Technologists](https://www.linkedin.com/in/jaycuthrell)
+- 🤔 I’m looking for help with [hiring Engineering Technologists](https://www.engineeringtechnologists.com)
 - 🔭 I’m currently working on [Engineering Technologists things](https://www.engineeringtechnologists.com)
 - 🌱 I’m currently learning [P4](https://p4.org)
 - 💬 Ask me about [PowerOne](https://www.delltechnologies.com/en-us/converged-infrastructure/powerone.htm)
