@@ -19,7 +19,7 @@ Jay holds a BS in Materials Science and Engineering from North Carolina State Un
 - 🤔 I’m looking for help with [Unicorn Jockeys podcast](https://unicornjockeys.com/)
 - 🔭 I’m currently working on [blogging more often](https://fudge.org)
 - 🌱 I’m currently learning [P4](https://p4.org)
-- 💬 Ask me about [PowerOne](https://www.delltechnologies.com/en-us/converged-infrastructure/powerone.htm)
+- 💬 Ask me about [anything](https://calendly.com/jaycuthrell)
 - 😄 Pronouns: He/Him/His
 
 Personal website build status: [![Netlify Status](https://api.netlify.com/api/v1/badges/9429ed97-dcdd-4ad1-bc10-cd5d36cf367b/deploy-status)](https://app.netlify.com/sites/jaycuthrellcom/deploys)
