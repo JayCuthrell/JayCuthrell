@@ -13,14 +13,14 @@ Jay’s expertise demonstrated through strong growth and change cycles provides 
 
 Jay holds a BS in Materials Science and Engineering from North Carolina State University and grew up in Beaufort, North Carolina. His personal blog can be found at [fudge.org](https://fudge.org/).
 
-- ⚡ Fun fact: According to loyalty trackers, I've lived several years in hotels over [my professional career](https://jaycuthrell.com/resume/)
+- 🤔 I’m looking for [my next adventure](https://jaycuthrell.com/resume/)
 - 📫 How to reach me: [I prefer keybase.io but there are other options](https://jaycuthrell.com/contact/)
 - 👯 I’m looking to collaborate on [Unicorn Jockeys podcast](https://unicornjockeys.com/)
-- 🤔 I’m looking for help with [Unicorn Jockeys podcast](https://unicornjockeys.com/)
 - 🔭 I’m currently working on [blogging more often](https://fudge.org)
-- 🌱 I’m currently learning [P4](https://p4.org)
 - 💬 Ask me [anything](https://calendly.com/jaycuthrell)
 - 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: According to loyalty trackers, I've lived several years in hotels over [my professional career](https://jaycuthrell.com/resume/)
+- 🌱 I’m formerly [@Dell](https://github.com/dell)
 
 Personal website build status: [![Netlify Status](https://api.netlify.com/api/v1/badges/9429ed97-dcdd-4ad1-bc10-cd5d36cf367b/deploy-status)](https://app.netlify.com/sites/jaycuthrellcom/deploys)
 
