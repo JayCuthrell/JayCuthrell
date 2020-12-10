@@ -5,8 +5,6 @@
 * [Former CTO / VP / GM](https://jaycuthrell.com/about/) 
 * Helped grow a business from 0 to multi $B 
 
-- 🌱 I’m formerly [@Dell](https://github.com/dell)
-- 🤔 I’m looking for [my next adventure](https://jaycuthrell.com/resume/)
 - 📫 How to reach me: [I prefer keybase.io but there are other options](https://jaycuthrell.com/contact/)
 - 👯 I’m looking to collaborate on [Unicorn Jockeys podcast](https://unicornjockeys.com/)
 - 🔭 I’m currently working on [blogging more often](https://fudge.org)
