@@ -1,10 +1,6 @@
 ### Hi, I’m Jay Cuthrell 👋
 
-* Servant Leader 
-* Corporate Free Safety 
-* Former CTO / VP / GM
-* Helped grow a business from 0 to multi $B 
-
+- 🏢 I work at @FactionInc p.s. [We're hiring](https://www.factioninc.com/about/careers/)
 - 📫 How to reach me: [I prefer keybase.io but there are other options](https://jaycuthrell.com/contact/)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: According to loyalty trackers, I've lived several years of my life in hotels
