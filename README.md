@@ -1,6 +1,6 @@
 ### Hi, I’m Jay Cuthrell 👋
 
-- 🏢 I work at [Faction](https://github.com/FactionInc) and [we are hiring](https://www.factioninc.com/company/careers/)
+- 🏢 I work at [Faction](https://github.com/FactionInc) and [we are hiring](https://grnh.se/66f4d22d4us)
 - 📫 How to reach me: [I prefer keybase.io but there are other options](https://jaycuthrell.com/contact/)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: According to loyalty trackers, I've lived several years of my life in hotels
