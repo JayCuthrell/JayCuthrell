@@ -1,6 +1,6 @@
 # Hi, I’m Jay Cuthrell 👋
 
-[![boat](https://cuthrell.com/art/boat.jpg)](https://cuthrell.com)
+[![boat](https://cuthrell.com/boat.jpg)](https://cuthrell.com)
 
 - 📫 How to reach me: [I prefer keybase.io but there are other options](https://jaycuthrell.com/contact/)
 - 😄 Pronouns: He/Him/His
