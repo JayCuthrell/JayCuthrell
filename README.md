@@ -39,9 +39,9 @@
  - [Cadillac WebAssembly Line](https://fudge.org/archive/cadillac-webassembly-line/)  2022 Oct 31
  - [Underneath The CNCF Tech Radar](https://fudge.org/archive/underneath-the-cncf-tech-radar/)  2022 Oct 23<hr>
 <div align="center">
-My README.md was last auto generated Sun May 14 21:28:34 2023
+My README.md was last auto generated Sun May 14 21:32:54 2023
 <br>
 This auto generated README.md file is created by code based on examples from <a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">@dylanroy</a> and <a href="https://github.com/eugeneyan" target="_blank">@eugeneyan</a>.
 <br>
-<img src="https://github.com/JayCuthrell/JayCuthrell/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
+<img src="https://github.com/JayCuthrell/JayCuthrell/workflows/cron/badge.svg?branch=master" align="center" alt="Build README"></a>
 </div>
