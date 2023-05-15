@@ -6,3 +6,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: According to loyalty trackers, I've lived several years of my life in hotels
 - 💼 Work: [IBM](https://www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/) 👁️🐝Ⓜ️
+
+### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+
+
