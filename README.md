@@ -8,6 +8,7 @@
 - 💼 Work: [IBM](https://www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/) 👁️🐝Ⓜ️
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [Do You Need The Service Catalog?](https://fudge.org/archive/do-you-need-the-service-catalog/)  2023 May 21
  - [It's Not Easy Being GreenDevSecFinOps](https://fudge.org/archive/its-not-easy-being-greendevsecfinops/)  2023 May 14
  - [One IDP piece at a time](https://fudge.org/archive/one-idp-piece-at-a-time/)  2023 May 07
  - [R U DevX Experienced?](https://fudge.org/archive/are-you-devx-experienced/)  2023 Apr 30
@@ -36,10 +37,9 @@
  - [I Want To Thank You](https://fudge.org/archive/i-want-to-thank-you/)  2022 Nov 20
  - [Twit Can Happen](https://fudge.org/archive/twit-can-happen/)  2022 Nov 13
  - [A Matter of Zero Trust](https://fudge.org/archive/a-matter-of-zero-trust/)  2022 Nov 06
- - [Cadillac WebAssembly Line](https://fudge.org/archive/cadillac-webassembly-line/)  2022 Oct 31
- - [Underneath The CNCF Tech Radar](https://fudge.org/archive/underneath-the-cncf-tech-radar/)  2022 Oct 23<hr>
+ - [Cadillac WebAssembly Line](https://fudge.org/archive/cadillac-webassembly-line/)  2022 Oct 31<hr>
 <div align="center">
-My README.md was last auto generated Sun May 14 21:52:47 2023
+My README.md was last auto generated Sun May 21 21:54:50 2023
 <br>
 This auto generated README.md file is created by code based on examples from <a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">@dylanroy</a> and <a href="https://github.com/eugeneyan" target="_blank">@eugeneyan</a>.
 <br>
