@@ -8,6 +8,7 @@
 - 💼 Work: [IBM](https://www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/) 👁️🐝Ⓜ️
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [GitOps Goes the World](https://fudge.org/archive/gitops-goes-the-world/)  2023 Jun 05
  - [Zero Tickets to Paradise](https://fudge.org/archive/zero-tickets-to-paradise/)  2023 May 29
  - [Do You Need The Service Catalog?](https://fudge.org/archive/do-you-need-the-service-catalog/)  2023 May 21
  - [It's Not Easy Being GreenDevSecFinOps](https://fudge.org/archive/its-not-easy-being-greendevsecfinops/)  2023 May 14
@@ -36,10 +37,9 @@
  - [Fediverse Moving over the Face of the Waters](https://fudge.org/archive/fediverse-moving-over-the-face-of-the-waters/)  2022 Dec 03
  - [Don't Worry 'Bout SRE](https://fudge.org/archive/dont-worry-bout-sre/)  2022 Nov 28
  - [I Want To Thank You](https://fudge.org/archive/i-want-to-thank-you/)  2022 Nov 20
- - [Twit Can Happen](https://fudge.org/archive/twit-can-happen/)  2022 Nov 13
- - [A Matter of Zero Trust](https://fudge.org/archive/a-matter-of-zero-trust/)  2022 Nov 06<hr>
+ - [Twit Can Happen](https://fudge.org/archive/twit-can-happen/)  2022 Nov 13<hr>
 <div align="center">
-My README.md was last auto generated Sun May 28 21:55:02 2023
+My README.md was last auto generated Sun Jun  4 22:02:19 2023
 <br>
 This auto generated README.md file is created by code based on examples from <a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">@dylanroy</a> and <a href="https://github.com/eugeneyan" target="_blank">@eugeneyan</a>.
 <br>
