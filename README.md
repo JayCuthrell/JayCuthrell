@@ -39,8 +39,10 @@
  - [k8s Operator, Could You Help Me Place SysCall?](https://fudge.org/archive/k8s-operator-could-you-help-me-place-syscall/)  2023 Feb 13
  - [Smooth k8s Operator](https://fudge.org/archive/smooth-k8s-operator/)  2023 Feb 05<hr>
 <div align="center">
-My README.md was last auto generated Sun Aug 27 21:41:39 2023
+My README.md was last auto generated Sat Sep  2 23:27:43 2023
 <br>
+  <link href="https://github.com/jaycuthrell" rel="me">
+  <link href="https://fudge.org" rel="me">
 This auto generated README.md file is created by code based on examples from <a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">@dylanroy</a> and <a href="https://github.com/eugeneyan" target="_blank">@eugeneyan</a>.
 <br>
 <a href="https://github.com/JayCuthrell/JayCuthrell/actions"><img src="https://github.com/JayCuthrell/JayCuthrell/workflows/cron/badge.svg?branch=master" align="center" alt="Build README"></a>
