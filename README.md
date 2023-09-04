@@ -8,6 +8,7 @@
 - 💼 Work: [IBM](https://www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/) 👁️🐝Ⓜ️
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [Little Green Tags](https://fudge.org/archive/little-green-tags/)  2023 Sep 03
  - [Are You Gonna Go Parquet](https://fudge.org/archive/are-you-gonna-go-parquet/)  2023 Aug 28
  - [Who Said The AI ML Was Fair?](https://fudge.org/archive/who-said-the-ai-ml-was-fair/)  2023 Aug 21
  - [Cyber Ground](https://fudge.org/archive/cyber-ground/)  2023 Aug 13
@@ -36,10 +37,9 @@
  - [Buf.build Your REST](https://fudge.org/archive/bufbuild-your-rest/)  2023 Mar 06
  - [IDP Wasn't Built in a Day](https://fudge.org/archive/idp-wasnt-built-in-a-day/)  2023 Feb 26
  - [Map of the Platformatique](https://fudge.org/archive/map-of-the-platformatique/)  2023 Feb 20
- - [k8s Operator, Could You Help Me Place SysCall?](https://fudge.org/archive/k8s-operator-could-you-help-me-place-syscall/)  2023 Feb 13
- - [Smooth k8s Operator](https://fudge.org/archive/smooth-k8s-operator/)  2023 Feb 05<hr>
+ - [k8s Operator, Could You Help Me Place SysCall?](https://fudge.org/archive/k8s-operator-could-you-help-me-place-syscall/)  2023 Feb 13<hr>
 <div align="center">
-My README.md was last auto generated Sat Sep  2 23:27:43 2023
+My README.md was last auto generated Sun Sep  3 21:41:57 2023
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
