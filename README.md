@@ -225,9 +225,10 @@
  - [Little Green Tags](https://fudge.org/archive/little-green-tags/)  2023 Sep 03
  - [Out of Sequence Update](https://fudge.org/archive/out-of-sequence-update/)  2023 Sep 06
  - [A.I. For You](https://fudge.org/archive/ai-for-you/)  2023 Sep 10
- - [Clean My Bookmarks](https://fudge.org/archive/clean-my-bookmarks/)  2023 Sep 17<hr>
+ - [Clean My Bookmarks](https://fudge.org/archive/clean-my-bookmarks/)  2023 Sep 17
+ - [Designed Sealed Delivered](https://fudge.org/archive/designed-sealed-delivered/)  2023 Sep 24<hr>
 <div align="center">
-My README.md was last auto generated Sun Sep 17 22:13:37 2023
+My README.md was last auto generated Sun Sep 24 21:42:12 2023
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
