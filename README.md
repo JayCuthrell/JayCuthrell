@@ -8,6 +8,7 @@
 - 💼 Work: [IBM](https://www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/) 👁️🐝Ⓜ️
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [LinkedIn, Lists, Looking Back, and Life](https://fudge.org/archive/linkedin-lists-looking-back-and-life/)  2023 Oct 22
  - [Nuance, Repatriation, and iPaaS](https://fudge.org/archive/nuance-repatriation-and-ipaas/)  2023 Oct 15
  - [The End of the Inflated Expectations](https://fudge.org/archive/the-end-of-the-inflated-expectations/)  2023 Oct 08
  - [Uh Zoom ZPR](https://fudge.org/archive/uh-zoom-zpr/)  2023 Oct 01
@@ -164,7 +165,6 @@
  - [Roll Your Own](https://fudge.org/archive/roll-your-own/)  2019 Apr 08
  - [Fudge Sunday - Life at 34,000 Feet](https://fudge.org/archive/fudge-sunday-life-at-34000-feet/)  2019 Apr 01
  - [Life at 34000 Feet](https://fudge.org/archive/life-at-34000-feet/)  2019 Apr 01
- - [Fudge Sunday - A Decade of GitHub](https://fudge.org/archive/fudge-sunday-a-decade-of-github/)  2019 Mar 25
  - [A Decade of GitHub](https://fudge.org/archive/a-decade-of-github/)  2019 Mar 25
  - [Fudge Sunday - Road Warrior Redux](https://fudge.org/archive/fudge-sunday-road-warrior-redux/)  2019 Mar 18
  - [Road Warrior Redux](https://fudge.org/archive/road-warrior-redux/)  2019 Mar 18
@@ -231,7 +231,7 @@
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/)  2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/)  1998 Dec 12<hr>
 <div align="center">
-My README.md was last auto generated Sun Oct 15 21:42:36 2023
+My README.md was last auto generated Sun Oct 22 21:42:15 2023
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
