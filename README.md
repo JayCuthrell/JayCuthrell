@@ -8,6 +8,7 @@
 - 💼 Work: [IBM](https://www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/) 👁️🐝Ⓜ️
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [Read The Fabulous Manual](https://fudge.org/archive/read-the-fabulous-manual/)  2023 Dec 03
  - [Plugins, Patterns, and Potpourri](https://fudge.org/archive/plugins-patterns-and-potpourri/)  2023 Nov 26
  - [Thanks Again in 2023](https://fudge.org/archive/thanks-again-in-2023/)  2023 Nov 19
  - [Reflections on the Rise of Modern Science](https://fudge.org/archive/reflections-on-the-rise-of-modern-science/)  2023 Nov 12
@@ -236,7 +237,7 @@
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/)  2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/)  1998 Dec 12<hr>
 <div align="center">
-My README.md was last auto generated Sun Nov 26 20:44:12 2023
+My README.md was last auto generated Sun Dec  3 20:44:45 2023
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
