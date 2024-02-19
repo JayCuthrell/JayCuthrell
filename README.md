@@ -8,10 +8,11 @@
 - 💼 Work: [IBM](https://www.taos.com/resources/press-releases/taos-brings-aboard-new-senior-vice-president-of-products-to-accelerate-digital-transformation-strategies/) 👁️🐝Ⓜ️
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [11ty Footnotes](https://fudge.org/archive/11ty-footnotes/)  2024 Feb 18
  - [11ty RSS Activepieces](https://fudge.org/archive/11ty-rss-activepieces/)  2024 Feb 11
  - [11ty iFramely Bookmarks](https://fudge.org/archive/11ty-iframely-bookmarks/)  2024 Feb 04
  - [Security on the Agenda](https://fudge.org/archive/security-on-the-agenda/)  2024 Jan 28
- - [How To Buttondown with 11ty on Netlify with GitHub](https://fudge.org/archive/how-to-buttondown-with-11ty-on-netlify-with-github/)  2024 Jan 21
+ - [Buttondown with 11ty on Netlify with GitHub](https://fudge.org/archive/buttondown-with-11ty-on-netlify-with-github/)  2024 Jan 21
  - [Interoperability and Convergence Ahead](https://fudge.org/archive/interoperability-and-convergence-ahead/)  2024 Jan 14
  - [Tip of the Apache Iceberg](https://fudge.org/archive/tip-of-the-apache-iceberg/)  2024 Jan 07
  - [Zettelkasten End of Year for 2023](https://fudge.org/archive/zettelkasten-end-of-year-for-2023/)  2023 Dec 31
@@ -247,7 +248,7 @@
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/)  2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/)  1998 Dec 12<hr>
 <div align="center">
-My README.md was last auto generated Sun Feb 11 20:41:17 2024
+My README.md was last auto generated Sun Feb 18 20:41:44 2024
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
