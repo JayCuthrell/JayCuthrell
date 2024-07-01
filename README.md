@@ -8,6 +8,7 @@
 - 💼 Work: [Cuthrell Consulting](https://cuthrell.consulting)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [Sprawl Walk Run](https://fudge.org/archive/sprawl-walk-run/)  2024 Jun 30
  - [Summary Solstice](https://fudge.org/archive/summary-solstice/)  2024 Jun 23
  - [Hot Fudge Daily Digest](https://fudge.org/archive/hot-fudge-daily-digest/)  2024 Jun 16
  - [Project Liberty & DSNP](https://fudge.org/archive/project-liberty-and-dsnp/)  2024 Jun 09
@@ -266,7 +267,7 @@
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/)  2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/)  1998 Dec 12<hr>
 <div align="center">
-My README.md was last auto generated Sun Jun 23 21:48:13 2024
+My README.md was last auto generated Sun Jun 30 21:53:07 2024
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
