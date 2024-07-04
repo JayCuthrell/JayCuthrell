@@ -11,9 +11,8 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Metrics embed
+      - name: Metrics embed full-year calendar
         uses: lowlighter/metrics@v3.34
-        name: Full-year calendar
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
