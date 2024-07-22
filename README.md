@@ -8,6 +8,7 @@
 - 💼 Work: [Cuthrell Consulting](https://cuthrell.consulting)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [Finding My Niche](https://fudge.org/archive/finding-my-niche/)  2024 Jul 21
  - [SXSW 2025: Senior Moments](https://fudge.org/archive/sxsw-2025-senior-moments/)  2024 Jul 14
  - [Run Fly Visualize](https://fudge.org/archive/run-fly-visualize/)  2024 Jul 07
  - [Sprawl Walk Run](https://fudge.org/archive/sprawl-walk-run/)  2024 Jun 30
@@ -269,7 +270,7 @@
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/)  2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/)  1998 Dec 12<hr>
 <div align="center">
-My README.md was last auto generated Sun Jul 14 21:50:42 2024
+My README.md was last auto generated Sun Jul 21 21:50:36 2024
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
