@@ -8,6 +8,7 @@
 - 💼 Work: [Cuthrell Consulting](https://cuthrell.consulting)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [Fudge Factor: Practical IIoT](https://fudge.org/archive/fudge-factor-practical-iiot/)  2024 Sep 01
  - [Fudge Factor: Telemetry Challenges](https://fudge.org/archive/fudge-factor-telemetry-challenges/)  2024 Aug 25
  - [Fudge Factor: Calibration and Validation](https://fudge.org/archive/fudge-factor-calibration-and-validation/)  2024 Aug 18
  - [Fudge Factor Format](https://fudge.org/archive/fudge-factor-format/)  2024 Aug 11
@@ -275,7 +276,7 @@
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/)  2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/)  1998 Dec 12<hr>
 <div align="center">
-My README.md was last auto generated Sun Aug 25 21:51:20 2024
+My README.md was last auto generated Mon Sep  2 00:45:17 2024
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
