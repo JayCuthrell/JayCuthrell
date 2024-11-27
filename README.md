@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Let's chat](https://jaycuthrell.com/contact/)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: According to loyalty trackers, I've lived several years of my life in hotels
-- 💼 Work: [Cuthrell Consulting](https://cuthrell.consulting)
+- 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
  - [Fudge Factor: Edge to Core to Cloud](https://fudge.org/archive/fudge-factor-edge-to-core-to-cloud/)  2024 Sep 08
