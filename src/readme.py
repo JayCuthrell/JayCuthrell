@@ -11,7 +11,8 @@ def update_footer():
 
 def reverse_rss_feed(rss_feed_url):
     rss_feed = feedparser.parse(rss_feed_url)
-    rss_feed.entries.reverse()
+    # new format as of Eleventy Excellent 3.7.3
+    # rss_feed.entries.reverse()
     return rss_feed.entries
 
 def update_readme_buttondown_posts(buttondown_feed, readme_base, join_on):
