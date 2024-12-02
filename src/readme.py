@@ -26,6 +26,6 @@ def update_readme_buttondown_posts(buttondown_feed, readme_base, join_on):
 
 rss_title = "### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)" # Anchor for where to append posts
 readme = Path('../README.md').read_text()
-updated_readme = update_readme_buttondown_posts("https://fudge.org/rss.xml", readme, rss_title)
+updated_readme = update_readme_buttondown_posts("https://fudge.org/feed.xml", readme, rss_title)
 with open('../README.md', "w+") as f:
     f.write(updated_readme + update_footer())
