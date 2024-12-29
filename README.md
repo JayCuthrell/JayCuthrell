@@ -3,7 +3,7 @@
 [![boat](https://cuthrell.com/boat.jpg)](https://cuthrell.com)
 
 - 📫 How to reach me: [Let's chat](https://jaycuthrell.com/contact/)
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: According to loyalty trackers, I've lived several years of my life in hotels
 - 💼 Work: [NexusTek](https://nexustek.com)
 
