@@ -8,6 +8,7 @@
 - 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org)
+ - [🌶️ Hot Fudge Sunday for 2025-01-05](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-01-05/) 2025 Jan 06
  - [🌶️ Hot Fudge Sunday for 2024-12-29](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-29/) 2024 Dec 29
  - [🌶️ Hot Fudge Sunday for 2024-12-22](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-22/) 2024 Dec 22
  - [🌶️ Hot Fudge Sunday for 2024-12-15](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-15/) 2024 Dec 15
@@ -51,7 +52,6 @@
  - [Spicy Edition Sunday for 2024-06-23](https://hot.fudge.org/archive/spicy-edition-sunday-for-2024-06-23/) 2024 Jun 23
  - [Summary Solstice](https://fudge.org/archive/summary-solstice/) 2024 Jun 23
  - [Hot Fudge Daily Digest](https://fudge.org/archive/hot-fudge-daily-digest/) 2024 Jun 16
- - [Markets Monday](https://hot.fudge.org/archive/markets-monday/) 2024 Jun 10
  - [Project Liberty & DSNP](https://fudge.org/archive/project-liberty-and-dsnp/) 2024 Jun 09
  - [GenAI June](https://fudge.org/archive/genai-june/) 2024 Jun 02
  - [Miscellaneous May](https://fudge.org/archive/miscellaneous-may/) 2024 May 26
@@ -308,7 +308,7 @@
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12<hr>
 <div align="center">
-My README.md was last auto generated Sun Dec 29 20:58:52 2024
+My README.md was last auto generated Sun Jan  5 21:00:18 2025
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
