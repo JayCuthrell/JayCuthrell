@@ -8,6 +8,7 @@
 - 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - [🌶️ Hot Fudge Sunday for 2025-02-02](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-02/) 2025 Feb 02
  - [🌶️ Hot Fudge Sunday for 2025-01-26](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-01-26/) 2025 Jan 26
  - [🌶️ Hot Fudge Sunday for 2025-01-19](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-01-19/) 2025 Jan 19
  - [🌶️ Hot Fudge Sunday for 2025-01-12](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-01-12/) 2025 Jan 12
@@ -56,7 +57,6 @@
  - [Increasingly Connected](https://fudge.org/archive/increasingly-connected/) 2024 Jul 28
  - [🌶️ Spicy Edition Sunday for 2024-07-21](https://hot.fudge.org/archive/spicy-edition-sunday-for-2024-07-21/) 2024 Jul 21
  - [Finding My Niche](https://fudge.org/archive/finding-my-niche/) 2024 Jul 21
- - [Spicy Edition Sunday for 2024-07-14](https://hot.fudge.org/archive/spicy-edition-sunday-for-2024-07-14/) 2024 Jul 14
  - [SXSW 2025: Senior Moments](https://fudge.org/archive/sxsw-2025-senior-moments/) 2024 Jul 14
  - [Run Fly Visualize](https://fudge.org/archive/run-fly-visualize/) 2024 Jul 07
  - [Sprawl Walk Run](https://fudge.org/archive/sprawl-walk-run/) 2024 Jun 30
@@ -323,7 +323,7 @@
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12<hr>
 <div align="center">
-My README.md was last auto generated Sun Jan 26 20:56:34 2025
+My README.md was last auto generated Sun Feb  2 20:56:00 2025
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
