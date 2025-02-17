@@ -8,7 +8,9 @@
 - 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - [🌶️ Hot Fudge Sunday for 2025-02-16](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-16/) 2025 Feb 16
  - [🌶️ Hot Fudge Sunday for 2025-02-09](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-09/) 2025 Feb 10
+ - [My SXSW 2025 Post](https://fudge.org/archive/my-sxsw-2025-post/) 2025 Feb 10
  - [🌶️ Hot Fudge Sunday for 2025-02-02](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-02/) 2025 Feb 02
  - [🌶️ Hot Fudge Sunday for 2025-01-26](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-01-26/) 2025 Jan 26
  - [🌶️ Hot Fudge Sunday for 2025-01-19](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-01-19/) 2025 Jan 19
@@ -54,7 +56,6 @@
  - [Fudge Factor Format](https://fudge.org/archive/fudge-factor-format/) 2024 Aug 11
  - [🌶️ Welcome to Hot Fudge Sunday](https://hot.fudge.org/archive/welcome-to-hot-fudge-sunday/) 2024 Aug 04
  - [Fudge Factor](https://fudge.org/archive/fudge-factor/) 2024 Aug 04
- - [🌶️ Spicy Edition Sunday for 2024-07-28](https://hot.fudge.org/archive/spicy-edition-sunday-for-2024-07-28/) 2024 Jul 28
  - [Increasingly Connected](https://fudge.org/archive/increasingly-connected/) 2024 Jul 28
  - [Finding My Niche](https://fudge.org/archive/finding-my-niche/) 2024 Jul 21
  - [SXSW 2025: Senior Moments](https://fudge.org/archive/sxsw-2025-senior-moments/) 2024 Jul 14
@@ -323,7 +324,7 @@
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12<hr>
 <div align="center">
-My README.md was last auto generated Sun Feb  9 20:57:14 2025
+My README.md was last auto generated Sun Feb 16 20:59:03 2025
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
