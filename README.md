@@ -8,6 +8,7 @@
 - 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - [🌶️ Hot Fudge Sunday for 2025-03-02](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-03-02/) 2025 Mar 02
  - [🌶️ Hot Fudge Sunday for 2025-02-23](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-23/) 2025 Feb 24
  - [🌶️ Hot Fudge Sunday for 2025-02-16](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-16/) 2025 Feb 16
  - [🌶️ Hot Fudge Sunday for 2025-02-09](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-09/) 2025 Feb 10
@@ -53,7 +54,6 @@
  - [Fudge Factor: Telemetry Challenges](https://fudge.org/archive/fudge-factor-telemetry-challenges/) 2024 Aug 25
  - [🌶️ Hot Fudge Sunday for 2024-08-18](https://hot.fudge.org/archive/hot-fudge-sunday-for-08-18/) 2024 Aug 18
  - [Fudge Factor: Calibration and Validation](https://fudge.org/archive/fudge-factor-calibration-and-validation/) 2024 Aug 18
- - [🌶️ Hot Fudge Sunday for 08-11-2024](https://hot.fudge.org/archive/hot-fudge-sunday-for-08-11-2024/) 2024 Aug 11
  - [Fudge Factor Format](https://fudge.org/archive/fudge-factor-format/) 2024 Aug 11
  - [Fudge Factor](https://fudge.org/archive/fudge-factor/) 2024 Aug 04
  - [Increasingly Connected](https://fudge.org/archive/increasingly-connected/) 2024 Jul 28
@@ -324,7 +324,7 @@
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12<hr>
 <div align="center">
-My README.md was last auto generated Sun Feb 23 20:59:27 2025
+My README.md was last auto generated Sun Mar  2 21:01:01 2025
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
