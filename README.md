@@ -8,6 +8,7 @@
 - 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - [🌶️ Hot Fudge Sunday for 2025-04-13](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-04-13/) 2025 Apr 13
  - [🌶️ Hot Fudge Sunday for 2025-04-06](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-04-06/) 2025 Apr 06
  - [🌶️ Hot Fudge Sunday for 2025-03-30](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-03-30/) 2025 Mar 30
  - [🌶️ Hot Fudge Sunday for 2025-03-23](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-03-23/) 2025 Mar 24
@@ -48,7 +49,6 @@
  - [AI Field Day 5 - Keysight Technologies](https://cuthrell.consulting/blog/ai-field-day-5-keysight-technologies/) 2024 Sep 25
  - [AI Field Day 5 - Integrail](https://cuthrell.consulting/blog/ai-field-day-5-integrail/) 2024 Sep 25
  - [🌶️ Hot Fudge Sunday for 2024-09-22](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-09-22/) 2024 Sep 22
- - [🌶️ Hot Fudge Sunday for 2024-09-15](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-09-15/) 2024 Sep 15
  - [Fudge Factor: Edge to Core to Cloud](https://fudge.org/archive/fudge-factor-edge-to-core-to-cloud/) 2024 Sep 08
  - [AI Field Day 5](https://cuthrell.consulting/blog/ai-field-day-5/) 2024 Sep 02
  - [Fudge Factor: Practical IIoT](https://fudge.org/archive/fudge-factor-practical-iiot/) 2024 Sep 01
@@ -324,7 +324,7 @@
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12<hr>
 <div align="center">
-My README.md was last auto generated Sun Apr  6 22:04:43 2025
+My README.md was last auto generated Sun Apr 13 22:06:07 2025
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
