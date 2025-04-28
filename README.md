@@ -8,6 +8,8 @@
 - 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - [🌶️ Hot Fudge Sunday for 2025-04-27](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-04-27/) 2025 Apr 28
+ - [🤪 Wacky Wednesday for 2025-04-23](https://hot.fudge.org/archive/wacky-wednesday-for-2025-04-23/) 2025 Apr 24
  - [🌶️ Hot Fudge Sunday for 2025-04-20](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-04-20/) 2025 Apr 21
  - [🌶️ Hot Fudge Sunday for 2025-04-13](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-04-13/) 2025 Apr 13
  - [🌶️ Hot Fudge Sunday for 2025-04-06](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-04-06/) 2025 Apr 06
@@ -40,8 +42,6 @@
  - [🌶️ Hot Fudge Sunday for 2024-10-20](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-10-20/) 2024 Oct 20
  - [🌶️ Hot Fudge Sunday for 2024-10-13](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-10-13/) 2024 Oct 13
  - [Strategic Perspectives and 2025 Trends](https://cuthrell.consulting/blog/strategic-perspectives-and-2025-trends/) 2024 Oct 09
- - [🌶️ Hot Fudge Sunday for 2024-10-06](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-10-06/) 2024 Oct 06
- - [🌶️ Hot Fudge Sunday for 2024-09-29](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-09-29/) 2024 Sep 29
  - [AI Field Day 5 - Arista](https://cuthrell.consulting/blog/ai-field-day-5-arista/) 2024 Sep 27
  - [AI Field Day 5 - Enfabrica](https://cuthrell.consulting/blog/ai-field-day-5-enfabrica/) 2024 Sep 27
  - [AI Field Day 5 - VMware](https://cuthrell.consulting/blog/ai-field-day-5-vmware/) 2024 Sep 26
@@ -324,7 +324,7 @@
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12<hr>
 <div align="center">
-My README.md was last auto generated Sun Apr 20 22:07:12 2025
+My README.md was last auto generated Sun Apr 27 22:07:13 2025
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
