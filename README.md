@@ -8,39 +8,39 @@
 - 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - [🌶️ Hot Fudge Sunday for 2025-05-11](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-05-11/) 2025 May 11
  - [🌶️ Hot Fudge Sunday for 2025-05-04](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-05-04/) 2025 May 04
+ - [🔮 Sneak Peak Saturday for 2025-05-03](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-05-03/) 2025 May 03
+ - [✅ Final Thoughts Friday for 2025-05-02](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-05-02/) 2025 May 03
+ - [🔙 Throwback Thursday for 2025-05-01](https://hot.fudge.org/archive/throwback-thursday-for-2025-05-01/) 2025 May 02
+ - [🤪 Wacky Wednesday for 2025-04-30](https://hot.fudge.org/archive/wacky-wednesday-for-2025-04-30/) 2025 May 01
+ - [🔥 Hot Takes Tuesday for 2025-04-29](https://hot.fudge.org/archive/hot-takes-tuesday-for-2025-04-29/) 2025 Apr 30
+ - [📈 Markets Monday for 2025-04-28](https://hot.fudge.org/archive/markets-monday-for-2025-04-28/) 2025 Apr 29
  - [🌶️ Hot Fudge Sunday for 2025-04-27](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-04-27/) 2025 Apr 28
+ - [🔮 Sneak Peak Saturday for 2025-04-26](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-04-26/) 2025 Apr 27
+ - [✅ Final Thoughts Friday for 2025-04-25](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-04-25/) 2025 Apr 26
+ - [🔙 Throwback Thursday for 2025-04-24](https://hot.fudge.org/archive/throwback-thursday-for-2025-04-24/) 2025 Apr 25
  - [🤪 Wacky Wednesday for 2025-04-23](https://hot.fudge.org/archive/wacky-wednesday-for-2025-04-23/) 2025 Apr 24
+ - [🔥 Hot Takes Tuesday for 2025-04-22](https://hot.fudge.org/archive/hot-takes-tuesday-for-2025-04-22/) 2025 Apr 23
+ - [📈 Markets Monday for 2025-04-21](https://hot.fudge.org/archive/markets-monday-for-2025-04-21/) 2025 Apr 22
  - [🌶️ Hot Fudge Sunday for 2025-04-20](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-04-20/) 2025 Apr 21
+ - [🔮 Sneak Peak Saturday for 2025-04-19](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-04-19/) 2025 Apr 20
+ - [✅ Final Thoughts Friday for 2025-04-18](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-04-18/) 2025 Apr 20
+ - [🔙 Throwback Thursday for 2025-04-17](https://hot.fudge.org/archive/throwback-thursday-for-2025-04-17/) 2025 Apr 20
+ - [🤪 Wacky Wednesday for 2025-04-16](https://hot.fudge.org/archive/wacky-wednesday-for-2025-04-16/) 2025 Apr 17
+ - [🔥 Hot Takes Tuesday for 2025-04-15](https://hot.fudge.org/archive/hot-takes-tuesday-for-2025-04-15/) 2025 Apr 16
+ - [📈 Markets Monday for 2025-04-14](https://hot.fudge.org/archive/markets-monday-for-2025-04-14/) 2025 Apr 15
  - [🌶️ Hot Fudge Sunday for 2025-04-13](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-04-13/) 2025 Apr 13
+ - [🔮 Sneak Peak Saturday for 2025-04-12](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-04-12/) 2025 Apr 13
+ - [✅ Final Thoughts Friday for 2025-04-11](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-04-11/) 2025 Apr 12
+ - [🔙 Throwback Thursday for 2025-04-10](https://hot.fudge.org/archive/throwback-thursday-for-2025-04-10/) 2025 Apr 11
+ - [🤪 Wacky Wednesday for 2025-04-09](https://hot.fudge.org/archive/wacky-wednesday-for-2025-04-09/) 2025 Apr 10
+ - [🔥 Hot Takes Tuesday for 2025-04-08](https://hot.fudge.org/archive/hot-takes-tuesday-for-2025-04-08/) 2025 Apr 09
+ - [📈 Markets Monday for 2025-04-07](https://hot.fudge.org/archive/markets-monday-for-2025-04-07/) 2025 Apr 08
  - [🌶️ Hot Fudge Sunday for 2025-04-06](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-04-06/) 2025 Apr 06
- - [🌶️ Hot Fudge Sunday for 2025-03-30](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-03-30/) 2025 Mar 30
- - [🌶️ Hot Fudge Sunday for 2025-03-23](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-03-23/) 2025 Mar 24
- - [🌶️ Hot Fudge Sunday for 2025-03-16](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-03-16/) 2025 Mar 17
- - [🌶️ Hot Fudge Sunday for 2025-03-09](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-03-09/) 2025 Mar 09
- - [🌶️ Hot Fudge Sunday for 2025-03-02](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-03-02/) 2025 Mar 02
- - [🌶️ Hot Fudge Sunday for 2025-02-23](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-23/) 2025 Feb 24
- - [🌶️ Hot Fudge Sunday for 2025-02-16](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-16/) 2025 Feb 16
- - [🌶️ Hot Fudge Sunday for 2025-02-09](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-09/) 2025 Feb 10
  - [My SXSW 2025 Post](https://fudge.org/archive/my-sxsw-2025-post/) 2025 Feb 10
- - [🌶️ Hot Fudge Sunday for 2025-02-02](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-02-02/) 2025 Feb 02
- - [🌶️ Hot Fudge Sunday for 2025-01-26](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-01-26/) 2025 Jan 26
- - [🌶️ Hot Fudge Sunday for 2025-01-19](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-01-19/) 2025 Jan 19
- - [🌶️ Hot Fudge Sunday for 2025-01-12](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-01-12/) 2025 Jan 12
- - [🌶️ Hot Fudge Sunday for 2025-01-05](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-01-05/) 2025 Jan 06
- - [🌶️ Hot Fudge Sunday for 2024-12-29](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-29/) 2024 Dec 29
- - [🌶️ Hot Fudge Sunday for 2024-12-22](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-22/) 2024 Dec 22
- - [🌶️ Hot Fudge Sunday for 2024-12-15](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-15/) 2024 Dec 15
- - [🌶️ Hot Fudge Sunday for 2024-12-08](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-08/) 2024 Dec 08
- - [🌶️ Hot Fudge Sunday for 2024-12-01](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-12-01/) 2024 Dec 01
  - [Fudge Factor: Holiday Updates](https://fudge.org/archive/fudge-factor-holiday-updates/) 2024 Nov 30
- - [🌶️ Hot Fudge Sunday for 2024-11-24](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-11-24/) 2024 Nov 24
  - [Jay Cuthrell joins NexusTek](https://cuthrell.consulting/blog/jay-cuthrell-joins-nexustek/) 2024 Nov 20
- - [🌶️ Hot Fudge Sunday for 2024-11-17](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-11-17/) 2024 Nov 17
- - [🌶️ Hot Fudge Sunday for 2024-11-10](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-11-10/) 2024 Nov 10
- - [🌶️ Hot Fudge Sunday for 2024-11-03](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-11-03/) 2024 Nov 03
- - [🌶️ Hot Fudge Sunday for 2024-10-27](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-10-27/) 2024 Oct 27
- - [🌶️ Hot Fudge Sunday for 2024-10-20](https://hot.fudge.org/archive/hot-fudge-sunday-for-2024-10-20/) 2024 Oct 20
  - [Strategic Perspectives and 2025 Trends](https://cuthrell.consulting/blog/strategic-perspectives-and-2025-trends/) 2024 Oct 09
  - [AI Field Day 5 - Arista](https://cuthrell.consulting/blog/ai-field-day-5-arista/) 2024 Sep 27
  - [AI Field Day 5 - Enfabrica](https://cuthrell.consulting/blog/ai-field-day-5-enfabrica/) 2024 Sep 27
@@ -324,7 +324,7 @@
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12<hr>
 <div align="center">
-My README.md was last auto generated Sun May  4 22:08:10 2025
+My README.md was last auto generated Sun May 11 22:08:38 2025
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
