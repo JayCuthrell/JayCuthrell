@@ -8,6 +8,7 @@
 - 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+ - [🌶️ Hot Fudge Sunday for 2025-05-18](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-05-18/) 2025 May 18
  - [🌶️ Hot Fudge Sunday for 2025-05-11](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-05-11/) 2025 May 11
  - [🌶️ Hot Fudge Sunday for 2025-05-04](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-05-04/) 2025 May 04
  - [🔮 Sneak Peak Saturday for 2025-05-03](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-05-03/) 2025 May 03
@@ -37,7 +38,6 @@
  - [🤪 Wacky Wednesday for 2025-04-09](https://hot.fudge.org/archive/wacky-wednesday-for-2025-04-09/) 2025 Apr 10
  - [🔥 Hot Takes Tuesday for 2025-04-08](https://hot.fudge.org/archive/hot-takes-tuesday-for-2025-04-08/) 2025 Apr 09
  - [📈 Markets Monday for 2025-04-07](https://hot.fudge.org/archive/markets-monday-for-2025-04-07/) 2025 Apr 08
- - [🌶️ Hot Fudge Sunday for 2025-04-06](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-04-06/) 2025 Apr 06
  - [My SXSW 2025 Post](https://fudge.org/archive/my-sxsw-2025-post/) 2025 Feb 10
  - [Fudge Factor: Holiday Updates](https://fudge.org/archive/fudge-factor-holiday-updates/) 2024 Nov 30
  - [Jay Cuthrell joins NexusTek](https://cuthrell.consulting/blog/jay-cuthrell-joins-nexustek/) 2024 Nov 20
@@ -324,7 +324,7 @@
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12<hr>
 <div align="center">
-My README.md was last auto generated Sun May 11 22:08:38 2025
+My README.md was last auto generated Sun May 18 22:08:55 2025
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
