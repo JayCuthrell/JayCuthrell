@@ -40,7 +40,7 @@ feed2 = reverse_rss_feed("https://hot.fudge.org/rss")
 feed3 = reverse_rss_feed("https://cuthrell.consulting/feed.xml")
 combined_feed = combine_feeds(feed1, feed2, feed3)
 posts = []
-for item in combined_feed:
+for item in combined_feed[:7]:
     title = item.title
     link = item.link
     published = (time.strftime('%Y %b %d', item.updated_parsed))
