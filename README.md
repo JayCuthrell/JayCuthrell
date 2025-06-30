@@ -8,64 +8,410 @@
 - 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
- - [🌶️ Hot Fudge Sunday for 2025-06-22](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-06-22/) 2025 Jun 22
- - [🌶️ Hot Fudge Sunday for 2025-06-15](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-06-15/) 2025 Jun 15
- - [🌶️ Hot Fudge Sunday for 2025-06-08](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-06-08/) 2025 Jun 08
- - [🌶️ Hot Fudge Sunday for 2025-06-01](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-06-01/) 2025 Jun 01
- - [🌶️ Hot Fudge Sunday for 2025-05-25](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-05-25/) 2025 May 26
- - [🔮 Sneak Peak Saturday for 2025-05-24](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-05-24/) 2025 May 26
- - [✅ Final Thoughts Friday for 2025-05-23](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-05-23/) 2025 May 25
- - [🔙 Throwback Thursday for 2025-05-22](https://hot.fudge.org/archive/throwback-thursday-for-2025-05-22/) 2025 May 23
- - [🤪 Wacky Wednesday for 2025-05-21](https://hot.fudge.org/archive/wacky-wednesday-for-2025-05-21/) 2025 May 23
- - [🔥 Hot Takes Tuesday for 2025-05-20](https://hot.fudge.org/archive/hot-takes-tuesday-for-2025-05-20/) 2025 May 21
- - [📈 Markets Monday for 2025-05-19](https://hot.fudge.org/archive/markets-monday-for-2025-05-19/) 2025 May 20
- - [🌶️ Hot Fudge Sunday for 2025-05-18](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-05-18/) 2025 May 18
- - [🌶️ Hot Fudge Sunday for 2025-05-11](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-05-11/) 2025 May 11
- - [🔮 Sneak Peak Saturday for 2025-05-10](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-05-10/) 2025 May 10
- - [✅ Final Thoughts Friday for 2025-05-09](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-05-09/) 2025 May 10
- - [🔙 Throwback Thursday for 2025-05-08](https://hot.fudge.org/archive/throwback-thursday-for-2025-05-08/) 2025 May 09
- - [🤪 Wacky Wednesday for 2025-05-07](https://hot.fudge.org/archive/wacky-wednesday-for-2025-05-07/) 2025 May 09
- - [🔥 Hot Takes Tuesday for 2025-05-06](https://hot.fudge.org/archive/hot-takes-tuesday-for-2025-05-06/) 2025 May 07
- - [📈 Markets Monday for 2025-05-05](https://hot.fudge.org/archive/markets-monday-for-2025-05-05/) 2025 May 06
- - [🌶️ Hot Fudge Sunday for 2025-05-04](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-05-04/) 2025 May 04
- - [🔮 Sneak Peak Saturday for 2025-05-03](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-05-03/) 2025 May 03
- - [✅ Final Thoughts Friday for 2025-05-02](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-05-02/) 2025 May 03
- - [🔙 Throwback Thursday for 2025-05-01](https://hot.fudge.org/archive/throwback-thursday-for-2025-05-01/) 2025 May 02
- - [🤪 Wacky Wednesday for 2025-04-30](https://hot.fudge.org/archive/wacky-wednesday-for-2025-04-30/) 2025 May 01
- - [🔥 Hot Takes Tuesday for 2025-04-29](https://hot.fudge.org/archive/hot-takes-tuesday-for-2025-04-29/) 2025 Apr 30
- - [📈 Markets Monday for 2025-04-28](https://hot.fudge.org/archive/markets-monday-for-2025-04-28/) 2025 Apr 29
- - [🌶️ Hot Fudge Sunday for 2025-04-27](https://hot.fudge.org/archive/hot-fudge-sunday-for-2025-04-27/) 2025 Apr 28
- - [🔮 Sneak Peak Saturday for 2025-04-26](https://hot.fudge.org/archive/sneak-peak-saturday-for-2025-04-26/) 2025 Apr 27
- - [✅ Final Thoughts Friday for 2025-04-25](https://hot.fudge.org/archive/final-thoughts-friday-for-2025-04-25/) 2025 Apr 26
- - [🔙 Throwback Thursday for 2025-04-24](https://hot.fudge.org/archive/throwback-thursday-for-2025-04-24/) 2025 Apr 25
+ - [🌶️ Hot Fudge Sunday for 2025-06-29](https://fudge.org/archive/hot-fudge-sunday-for-2025-06-29/) 2025 Jun 29
+ - [🔮 Sneak Peak Saturday for 2025-06-28](https://fudge.org/archive/sneak-peak-saturday-for-2025-06-28/) 2025 Jun 28
+ - [✅ Final Thoughts Friday for 2025-06-27](https://fudge.org/archive/final-thoughts-friday-for-2025-06-27/) 2025 Jun 28
+ - [🔙 Throwback Thursday for 2025-06-26](https://fudge.org/archive/throwback-thursday-for-2025-06-26/) 2025 Jun 26
+ - [🤪 Wacky Wednesday for 2025-06-25](https://fudge.org/archive/wacky-wednesday-for-2025-06-25/) 2025 Jun 25
+ - [🔥 Hot Takes Tuesday for 2025-06-24](https://fudge.org/archive/hot-takes-tuesday-for-2025-06-24/) 2025 Jun 24
+ - [📈 Markets Monday for 2025-06-23](https://fudge.org/archive/markets-monday-for-2025-06-23/) 2025 Jun 23
+ - [🌶️ Hot Fudge Sunday for 2025-06-22](https://fudge.org/archive/hot-fudge-sunday-for-2025-06-22/) 2025 Jun 22
+ - [🔮 Sneak Peak Saturday for 2025-06-21](https://fudge.org/archive/sneak-peak-saturday-for-2025-06-21/) 2025 Jun 21
+ - [✅ Final Thoughts Friday for 2025-06-20](https://fudge.org/archive/final-thoughts-friday-for-2025-06-20/) 2025 Jun 21
+ - [🔙 Throwback Thursday for 2025-06-19](https://fudge.org/archive/throwback-thursday-for-2025-06-19/) 2025 Jun 20
+ - [🤪 Wacky Wednesday for 2025-06-18](https://fudge.org/archive/wacky-wednesday-for-2025-06-18/) 2025 Jun 18
+ - [🔥 Hot Takes Tuesday for 2025-06-17](https://fudge.org/archive/hot-takes-tuesday-for-2025-06-17/) 2025 Jun 18
+ - [📈 Markets Monday for 2025-06-16](https://fudge.org/archive/markets-monday-for-2025-06-16/) 2025 Jun 17
+ - [🌶️ Hot Fudge Sunday for 2025-06-15](https://fudge.org/archive/hot-fudge-sunday-for-2025-06-15/) 2025 Jun 15
+ - [🔮 Sneak Peak Saturday for 2025-06-14](https://fudge.org/archive/sneak-peak-saturday-for-2025-06-14/) 2025 Jun 14
+ - [✅ Final Thoughts Friday for 2025-06-13](https://fudge.org/archive/final-thoughts-friday-for-2025-06-13/) 2025 Jun 14
+ - [🔙 Throwback Thursday for 2025-06-12](https://fudge.org/archive/throwback-thursday-for-2025-06-12/) 2025 Jun 13
+ - [🤪 Wacky Wednesday for 2025-06-11](https://fudge.org/archive/wacky-wednesday-for-2025-06-11/) 2025 Jun 12
+ - [🔥 Hot Takes Tuesday for 2025-06-10](https://fudge.org/archive/hot-takes-tuesday-for-2025-06-10/) 2025 Jun 11
+ - [📈 Markets Monday for 2025-06-09](https://fudge.org/archive/markets-monday-for-2025-06-09/) 2025 Jun 10
+ - [🌶️ Hot Fudge Sunday for 2025-06-08](https://fudge.org/archive/hot-fudge-sunday-for-2025-06-08/) 2025 Jun 08
+ - [🔮 Sneak Peak Saturday for 2025-06-07](https://fudge.org/archive/sneak-peak-saturday-for-2025-06-07/) 2025 Jun 07
+ - [✅ Final Thoughts Friday for 2025-06-06](https://fudge.org/archive/final-thoughts-friday-for-2025-06-06/) 2025 Jun 07
+ - [🔙 Throwback Thursday for 2025-06-05](https://fudge.org/archive/throwback-thursday-for-2025-06-05/) 2025 Jun 06
+ - [🤪 Wacky Wednesday for 2025-06-04](https://fudge.org/archive/wacky-wednesday-for-2025-06-04/) 2025 Jun 05
+ - [🔥 Hot Takes Tuesday for 2025-06-03](https://fudge.org/archive/hot-takes-tuesday-for-2025-06-03/) 2025 Jun 05
+ - [📈 Markets Monday for 2025-06-02](https://fudge.org/archive/markets-monday-for-2025-06-02/) 2025 Jun 03
+ - [🌶️ Hot Fudge Sunday for 2025-06-01](https://fudge.org/archive/hot-fudge-sunday-for-2025-06-01/) 2025 Jun 01
+ - [🔮 Sneak Peak Saturday for 2025-05-31](https://fudge.org/archive/sneak-peak-saturday-for-2025-05-31/) 2025 May 31
+ - [✅ Final Thoughts Friday for 2025-05-30](https://fudge.org/archive/final-thoughts-friday-for-2025-05-30/) 2025 May 31
+ - [🔙 Throwback Thursday for 2025-05-29](https://fudge.org/archive/throwback-thursday-for-2025-05-29/) 2025 May 29
+ - [🤪 Wacky Wednesday for 2025-05-28](https://fudge.org/archive/wacky-wednesday-for-2025-05-28/) 2025 May 29
+ - [🔥 Hot Takes Tuesday for 2025-05-27](https://fudge.org/archive/hot-takes-tuesday-for-2025-05-27/) 2025 May 28
+ - [📈 Markets Monday for 2025-05-26](https://fudge.org/archive/markets-monday-for-2025-05-26/) 2025 May 28
+ - [🌶️ Hot Fudge Sunday for 2025-05-25](https://fudge.org/archive/hot-fudge-sunday-for-2025-05-25/) 2025 May 26
+ - [🔮 Sneak Peak Saturday for 2025-05-24](https://fudge.org/archive/sneak-peak-saturday-for-2025-05-24/) 2025 May 26
+ - [✅ Final Thoughts Friday for 2025-05-23](https://fudge.org/archive/final-thoughts-friday-for-2025-05-23/) 2025 May 25
+ - [🔙 Throwback Thursday for 2025-05-22](https://fudge.org/archive/throwback-thursday-for-2025-05-22/) 2025 May 23
+ - [🤪 Wacky Wednesday for 2025-05-21](https://fudge.org/archive/wacky-wednesday-for-2025-05-21/) 2025 May 23
+ - [🔥 Hot Takes Tuesday for 2025-05-20](https://fudge.org/archive/hot-takes-tuesday-for-2025-05-20/) 2025 May 21
+ - [📈 Markets Monday for 2025-05-19](https://fudge.org/archive/markets-monday-for-2025-05-19/) 2025 May 20
+ - [🌶️ Hot Fudge Sunday for 2025-05-18](https://fudge.org/archive/hot-fudge-sunday-for-2025-05-18/) 2025 May 18
+ - [🌶️ Hot Fudge Sunday for 2025-05-11](https://fudge.org/archive/hot-fudge-sunday-for-2025-05-11/) 2025 May 11
+ - [🔮 Sneak Peak Saturday for 2025-05-10](https://fudge.org/archive/sneak-peak-saturday-for-2025-05-10/) 2025 May 10
+ - [✅ Final Thoughts Friday for 2025-05-09](https://fudge.org/archive/final-thoughts-friday-for-2025-05-09/) 2025 May 10
+ - [🔙 Throwback Thursday for 2025-05-08](https://fudge.org/archive/throwback-thursday-for-2025-05-08/) 2025 May 09
+ - [🤪 Wacky Wednesday for 2025-05-07](https://fudge.org/archive/wacky-wednesday-for-2025-05-07/) 2025 May 09
+ - [🔥 Hot Takes Tuesday for 2025-05-06](https://fudge.org/archive/hot-takes-tuesday-for-2025-05-06/) 2025 May 07
+ - [📈 Markets Monday for 2025-05-05](https://fudge.org/archive/markets-monday-for-2025-05-05/) 2025 May 06
+ - [🌶️ Hot Fudge Sunday for 2025-05-04](https://fudge.org/archive/hot-fudge-sunday-for-2025-05-04/) 2025 May 04
+ - [🔮 Sneak Peak Saturday for 2025-05-03](https://fudge.org/archive/sneak-peak-saturday-for-2025-05-03/) 2025 May 03
+ - [✅ Final Thoughts Friday for 2025-05-02](https://fudge.org/archive/final-thoughts-friday-for-2025-05-02/) 2025 May 03
+ - [🔙 Throwback Thursday for 2025-05-01](https://fudge.org/archive/throwback-thursday-for-2025-05-01/) 2025 May 02
+ - [🤪 Wacky Wednesday for 2025-04-30](https://fudge.org/archive/wacky-wednesday-for-2025-04-30/) 2025 May 01
+ - [🔥 Hot Takes Tuesday for 2025-04-29](https://fudge.org/archive/hot-takes-tuesday-for-2025-04-29/) 2025 Apr 30
+ - [📈 Markets Monday for 2025-04-28](https://fudge.org/archive/markets-monday-for-2025-04-28/) 2025 Apr 29
+ - [🌶️ Hot Fudge Sunday for 2025-04-27](https://fudge.org/archive/hot-fudge-sunday-for-2025-04-27/) 2025 Apr 28
+ - [🔮 Sneak Peak Saturday for 2025-04-26](https://fudge.org/archive/sneak-peak-saturday-for-2025-04-26/) 2025 Apr 27
+ - [✅ Final Thoughts Friday for 2025-04-25](https://fudge.org/archive/final-thoughts-friday-for-2025-04-25/) 2025 Apr 26
+ - [🔙 Throwback Thursday for 2025-04-24](https://fudge.org/archive/throwback-thursday-for-2025-04-24/) 2025 Apr 25
+ - [🤪 Wacky Wednesday for 2025-04-23](https://fudge.org/archive/wacky-wednesday-for-2025-04-23/) 2025 Apr 24
+ - [🔥 Hot Takes Tuesday for 2025-04-22](https://fudge.org/archive/hot-takes-tuesday-for-2025-04-22/) 2025 Apr 23
+ - [📈 Markets Monday for 2025-04-21](https://fudge.org/archive/markets-monday-for-2025-04-21/) 2025 Apr 22
+ - [🌶️ Hot Fudge Sunday for 2025-04-20](https://fudge.org/archive/hot-fudge-sunday-for-2025-04-20/) 2025 Apr 21
+ - [🔮 Sneak Peak Saturday for 2025-04-19](https://fudge.org/archive/sneak-peak-saturday-for-2025-04-19/) 2025 Apr 20
+ - [✅ Final Thoughts Friday for 2025-04-18](https://fudge.org/archive/final-thoughts-friday-for-2025-04-18/) 2025 Apr 20
+ - [🔙 Throwback Thursday for 2025-04-17](https://fudge.org/archive/throwback-thursday-for-2025-04-17/) 2025 Apr 20
+ - [🤪 Wacky Wednesday for 2025-04-16](https://fudge.org/archive/wacky-wednesday-for-2025-04-16/) 2025 Apr 17
+ - [🔥 Hot Takes Tuesday for 2025-04-15](https://fudge.org/archive/hot-takes-tuesday-for-2025-04-15/) 2025 Apr 16
+ - [📈 Markets Monday for 2025-04-14](https://fudge.org/archive/markets-monday-for-2025-04-14/) 2025 Apr 15
+ - [🌶️ Hot Fudge Sunday for 2025-04-13](https://fudge.org/archive/hot-fudge-sunday-for-2025-04-13/) 2025 Apr 13
+ - [🔮 Sneak Peak Saturday for 2025-04-12](https://fudge.org/archive/sneak-peak-saturday-for-2025-04-12/) 2025 Apr 13
+ - [✅ Final Thoughts Friday for 2025-04-11](https://fudge.org/archive/final-thoughts-friday-for-2025-04-11/) 2025 Apr 12
+ - [🔙 Throwback Thursday for 2025-04-10](https://fudge.org/archive/throwback-thursday-for-2025-04-10/) 2025 Apr 11
+ - [🤪 Wacky Wednesday for 2025-04-09](https://fudge.org/archive/wacky-wednesday-for-2025-04-09/) 2025 Apr 10
+ - [🔥 Hot Takes Tuesday for 2025-04-08](https://fudge.org/archive/hot-takes-tuesday-for-2025-04-08/) 2025 Apr 09
+ - [📈 Markets Monday for 2025-04-07](https://fudge.org/archive/markets-monday-for-2025-04-07/) 2025 Apr 08
+ - [🌶️ Hot Fudge Sunday for 2025-04-06](https://fudge.org/archive/hot-fudge-sunday-for-2025-04-06/) 2025 Apr 06
+ - [🔮 Sneak Peak Saturday for 2025-04-05](https://fudge.org/archive/sneak-peak-saturday-for-2025-04-05/) 2025 Apr 06
+ - [✅ Final Thoughts Friday for 2025-04-04](https://fudge.org/archive/final-thoughts-friday-for-2025-04-04/) 2025 Apr 05
+ - [🔙 Throwback Thursday for 2025-04-03](https://fudge.org/archive/throwback-thursday-for-2025-04-03/) 2025 Apr 04
+ - [🤪 Wacky Wednesday for 2025-04-02](https://fudge.org/archive/wacky-wednesday-for-2025-04-02/) 2025 Apr 03
+ - [🔥 Hot Takes Tuesday for 2025-04-01](https://fudge.org/archive/hot-takes-tuesday-for-2025-04-01/) 2025 Apr 02
+ - [📈 Markets Monday for 2025-03-31](https://fudge.org/archive/markets-monday-for-2025-03-31/) 2025 Apr 01
+ - [🌶️ Hot Fudge Sunday for 2025-03-30](https://fudge.org/archive/hot-fudge-sunday-for-2025-03-30/) 2025 Mar 30
+ - [🔮 Sneak Peak Saturday for 2025-03-29](https://fudge.org/archive/sneak-peak-saturday-for-2025-03-29/) 2025 Mar 29
+ - [✅ Final Thoughts Friday for 2025-03-28](https://fudge.org/archive/final-thoughts-friday-for-2025-03-28/) 2025 Mar 29
+ - [🔙 Throwback Thursday for 2025-03-27](https://fudge.org/archive/throwback-thursday-for-2025-03-27/) 2025 Mar 28
+ - [🤪 Wacky Wednesday for 2025-03-26](https://fudge.org/archive/wacky-wednesday-for-2025-03-26/) 2025 Mar 27
+ - [🔥 Hot Takes Tuesday for 2025-03-25](https://fudge.org/archive/hot-takes-tuesday-for-2025-03-25/) 2025 Mar 26
+ - [📈 Markets Monday for 2025-03-24](https://fudge.org/archive/markets-monday-for-2025-03-24/) 2025 Mar 25
+ - [🌶️ Hot Fudge Sunday for 2025-03-23](https://fudge.org/archive/hot-fudge-sunday-for-2025-03-23/) 2025 Mar 24
+ - [🔮 Sneak Peak Saturday for 2025-03-22](https://fudge.org/archive/sneak-peak-saturday-for-2025-03-22/) 2025 Mar 23
+ - [✅ Final Thoughts Friday for 2025-03-21](https://fudge.org/archive/final-thoughts-friday-for-2025-03-21/) 2025 Mar 23
+ - [🔙 Throwback Thursday for 2025-03-20](https://fudge.org/archive/throwback-thursday-for-2025-03-20/) 2025 Mar 23
+ - [🤪 Wacky Wednesday for 2025-03-19](https://fudge.org/archive/wacky-wednesday-for-2025-03-19/) 2025 Mar 20
+ - [🔥 Hot Takes Tuesday for 2025-03-18](https://fudge.org/archive/hot-takes-tuesday-for-2025-03-18/) 2025 Mar 19
+ - [📈 Markets Monday for 2025-03-17](https://fudge.org/archive/markets-monday-for-2025-03-17/) 2025 Mar 18
+ - [🌶️ Hot Fudge Sunday for 2025-03-16](https://fudge.org/archive/hot-fudge-sunday-for-2025-03-16/) 2025 Mar 17
+ - [🔮 Sneak Peak Saturday for 2025-03-15](https://fudge.org/archive/sneak-peak-saturday-for-2025-03-15/) 2025 Mar 16
+ - [✅ Final Thoughts Friday for 2025-03-14](https://fudge.org/archive/final-thoughts-friday-for-2025-03-14/) 2025 Mar 15
+ - [🔙 Throwback Thursday for 2025-03-13](https://fudge.org/archive/throwback-thursday-for-2025-03-13/) 2025 Mar 13
+ - [🤪 Wacky Wednesday for 2025-03-12](https://fudge.org/archive/wacky-wednesday-for-2025-03-12/) 2025 Mar 13
+ - [🔥 Hot Takes Tuesday for 2025-03-11](https://fudge.org/archive/hot-takes-tuesday-for-2025-03-11/) 2025 Mar 12
+ - [📈 Markets Monday for 2025-03-10](https://fudge.org/archive/markets-monday-for-2025-03-10/) 2025 Mar 11
+ - [🌶️ Hot Fudge Sunday for 2025-03-09](https://fudge.org/archive/hot-fudge-sunday-for-2025-03-09/) 2025 Mar 09
+ - [🔮 Sneak Peak Saturday for 2025-03-08](https://fudge.org/archive/sneak-peak-saturday-for-2025-03-08/) 2025 Mar 09
+ - [✅ Final Thoughts Friday for 2025-03-07](https://fudge.org/archive/final-thoughts-friday-for-2025-03-07/) 2025 Mar 09
+ - [🔙 Throwback Thursday for 2025-03-06](https://fudge.org/archive/throwback-thursday-for-2025-03-06/) 2025 Mar 08
+ - [🤪 Wacky Wednesday for 2025-03-05](https://fudge.org/archive/wacky-wednesday-for-2025-03-05/) 2025 Mar 06
+ - [🔥 Hot Takes Tuesday for 2025-03-04](https://fudge.org/archive/hot-takes-tuesday-for-2025-03-04/) 2025 Mar 05
+ - [📈 Markets Monday for 2025-03-03](https://fudge.org/archive/markets-monday-for-2025-03-03/) 2025 Mar 04
+ - [🌶️ Hot Fudge Sunday for 2025-03-02](https://fudge.org/archive/hot-fudge-sunday-for-2025-03-02/) 2025 Mar 02
+ - [🔮 Sneak Peak Saturday for 2025-03-01](https://fudge.org/archive/sneak-peak-saturday-for-2025-03-01/) 2025 Mar 02
+ - [✅ Final Thoughts Friday for 2025-02-28](https://fudge.org/archive/final-thoughts-friday-for-2025-02-28/) 2025 Mar 01
+ - [🔙 Throwback Thursday for 2025-02-27](https://fudge.org/archive/throwback-thursday-for-2025-02-27/) 2025 Feb 28
+ - [🤪 Wacky Wednesday for 2025-02-26](https://fudge.org/archive/wacky-wednesday-for-2025-02-26/) 2025 Feb 27
+ - [🔥 Hot Takes Tuesday for 2025-02-25](https://fudge.org/archive/hot-takes-tuesday-for-2025-02-25/) 2025 Feb 26
+ - [📈 Markets Monday for 2025-02-24](https://fudge.org/archive/markets-monday-for-2025-02-24/) 2025 Feb 25
+ - [🌶️ Hot Fudge Sunday for 2025-02-23](https://fudge.org/archive/hot-fudge-sunday-for-2025-02-23/) 2025 Feb 24
+ - [🔮 Sneak Peak Saturday for 2025-02-22](https://fudge.org/archive/sneak-peak-saturday-for-2025-02-22/) 2025 Feb 23
+ - [✅ Final Thoughts Friday for 2025-02-21](https://fudge.org/archive/final-thoughts-friday-for-2025-02-21/) 2025 Feb 22
+ - [🔙 Throwback Thursday for 2025-02-20](https://fudge.org/archive/throwback-thursday-for-2025-02-20/) 2025 Feb 22
+ - [🤪 Wacky Wednesday for 2025-02-19](https://fudge.org/archive/wacky-wednesday-for-2025-02-19/) 2025 Feb 22
+ - [🔥 Hot Takes Tuesday for 2025-02-18](https://fudge.org/archive/hot-takes-tuesday-for-2025-02-18/) 2025 Feb 22
+ - [📈 Markets Monday for 2025-02-17](https://fudge.org/archive/markets-monday-for-2025-02-17/) 2025 Feb 18
+ - [🌶️ Hot Fudge Sunday for 2025-02-16](https://fudge.org/archive/hot-fudge-sunday-for-2025-02-16/) 2025 Feb 16
+ - [🔮 Sneak Peak Saturday for 2025-02-15](https://fudge.org/archive/sneak-peak-saturday-for-2025-02-15/) 2025 Feb 16
+ - [✅ Final Thoughts Friday for 2025-02-14](https://fudge.org/archive/final-thoughts-friday-for-2025-02-14/) 2025 Feb 15
+ - [🔙 Throwback Thursday for 2025-02-13](https://fudge.org/archive/throwback-thursday-for-2025-02-13/) 2025 Feb 14
+ - [🤪 Wacky Wednesday for 2025-02-12](https://fudge.org/archive/wacky-wednesday-for-2025-02-12/) 2025 Feb 13
+ - [🔥 Hot Takes Tuesday for 2025-02-11](https://fudge.org/archive/hot-takes-tuesday-for-2025-02-11/) 2025 Feb 12
+ - [📈 Markets Monday for 2025-02-10](https://fudge.org/archive/markets-monday-for-2025-02-10/) 2025 Feb 11
+ - [🌶️ Hot Fudge Sunday for 2025-02-09](https://fudge.org/archive/hot-fudge-sunday-for-2025-02-09/) 2025 Feb 10
  - [My SXSW 2025 Post](https://fudge.org/archive/my-sxsw-2025-post/) 2025 Feb 10
+ - [🔮 Sneak Peak Saturday for 2025-02-08](https://fudge.org/archive/sneak-peak-saturday-for-2025-02-08/) 2025 Feb 08
+ - [✅ Final Thoughts Friday for 2025-02-07](https://fudge.org/archive/final-thoughts-friday-for-2025-02-07/) 2025 Feb 08
+ - [🔙 Throwback Thursday for 2025-02-06](https://fudge.org/archive/throwback-thursday-for-2025-02-06/) 2025 Feb 08
+ - [🤪 Wacky Wednesday for 2025-02-05](https://fudge.org/archive/wacky-wednesday-for-2025-02-05/) 2025 Feb 06
+ - [🔥 Hot Takes Tuesday for 2025-02-04](https://fudge.org/archive/hot-takes-tuesday-for-2025-02-04/) 2025 Feb 05
+ - [📈 Markets Monday for 2025-02-03](https://fudge.org/archive/markets-monday-for-2025-02-03/) 2025 Feb 04
+ - [🌶️ Hot Fudge Sunday for 2025-02-02](https://fudge.org/archive/hot-fudge-sunday-for-2025-02-02/) 2025 Feb 02
+ - [🔮 Sneak Peak Saturday for 2025-02-01](https://fudge.org/archive/sneak-peak-saturday-for-2025-02-01/) 2025 Feb 02
+ - [✅ Final Thoughts Friday for 2025-01-31](https://fudge.org/archive/final-thoughts-friday-for-2025-01-31/) 2025 Feb 02
+ - [🔙 Throwback Thursday for 2025-01-30](https://fudge.org/archive/throwback-thursday-for-2025-01-30/) 2025 Feb 02
+ - [🤪 Wacky Wednesday for 2025-01-29](https://fudge.org/archive/wacky-wednesday-for-2025-01-29/) 2025 Jan 30
+ - [🔥 Hot Takes Tuesday for 2025-01-28](https://fudge.org/archive/hot-takes-tuesday-for-2025-01-28/) 2025 Jan 29
+ - [📈 Markets Monday for 2025-01-27](https://fudge.org/archive/markets-monday-for-2025-01-27/) 2025 Jan 28
+ - [🌶️ Hot Fudge Sunday for 2025-01-26](https://fudge.org/archive/hot-fudge-sunday-for-2025-01-26/) 2025 Jan 26
+ - [🔮 Sneak Peak Saturday for 2025-01-25](https://fudge.org/archive/sneak-peak-saturday-for-2025-01-25/) 2025 Jan 25
+ - [✅ Final Thoughts Friday for 2025-01-24](https://fudge.org/archive/final-thoughts-friday-for-2025-01-24/) 2025 Jan 25
+ - [🔙 Throwback Thursday for 2025-01-23](https://fudge.org/archive/throwback-thursday-for-2025-01-23/) 2025 Jan 24
+ - [🤪 Wacky Wednesday for 2025-01-22](https://fudge.org/archive/wacky-wednesday-for-2025-01-22/) 2025 Jan 23
+ - [🔥 Hot Takes Tuesday for 2025-01-21](https://fudge.org/archive/hot-takes-tuesday-for-2025-01-21/) 2025 Jan 22
+ - [📈 Markets Monday for 2025-01-20](https://fudge.org/archive/markets-monday-for-2025-01-20/) 2025 Jan 21
+ - [🌶️ Hot Fudge Sunday for 2025-01-19](https://fudge.org/archive/hot-fudge-sunday-for-2025-01-19/) 2025 Jan 19
+ - [🔮 Sneak Peak Saturday for 2025-01-18](https://fudge.org/archive/sneak-peak-saturday-for-2025-01-18/) 2025 Jan 18
+ - [✅ Final Thoughts Friday for 2025-01-17](https://fudge.org/archive/final-thoughts-friday-for-2025-01-17/) 2025 Jan 18
+ - [🔙 Throwback Thursday for 2025-01-16](https://fudge.org/archive/throwback-thursday-for-2025-01-16/) 2025 Jan 17
+ - [🤪 Wacky Wednesday for 2025-01-15](https://fudge.org/archive/wacky-wednesday-for-2025-01-15/) 2025 Jan 16
+ - [🔥 Hot Takes Tuesday for 2025-01-14](https://fudge.org/archive/hot-takes-tuesday-for-2025-01-14/) 2025 Jan 15
+ - [📈 Markets Monday for 2025-01-13](https://fudge.org/archive/markets-monday-for-2025-01-13/) 2025 Jan 14
+ - [🌶️ Hot Fudge Sunday for 2025-01-12](https://fudge.org/archive/hot-fudge-sunday-for-2025-01-12/) 2025 Jan 12
+ - [🔮 Sneak Peak Saturday for 2025-01-11](https://fudge.org/archive/sneak-peak-saturday-for-2025-01-11/) 2025 Jan 11
+ - [✅ Final Thoughts Friday for 2025-01-10](https://fudge.org/archive/final-thoughts-friday-for-2025-01-10/) 2025 Jan 11
+ - [🔙 Throwback Thursday for 2025-01-09](https://fudge.org/archive/throwback-thursday-for-2025-01-09/) 2025 Jan 10
+ - [🤪 Wacky Wednesday for 2025-01-08](https://fudge.org/archive/wacky-wednesday-for-2025-01-08/) 2025 Jan 09
+ - [🔥 Hot Takes Tuesday for 2025-01-07](https://fudge.org/archive/hot-takes-tuesday-for-2025-01-07/) 2025 Jan 08
+ - [📈 Markets Monday for 2025-01-06](https://fudge.org/archive/markets-monday-for-2025-01-06/) 2025 Jan 07
+ - [🌶️ Hot Fudge Sunday for 2025-01-05](https://fudge.org/archive/hot-fudge-sunday-for-2025-01-05/) 2025 Jan 06
+ - [🔮 Sneak Peak Saturday for 2025-01-04](https://fudge.org/archive/sneak-peak-saturday-for-2025-01-04/) 2025 Jan 04
+ - [✅ Final Thoughts Friday for 2025-01-03](https://fudge.org/archive/final-thoughts-friday-for-2025-01-03/) 2025 Jan 04
+ - [🔙 Throwback Thursday for 2025-01-02](https://fudge.org/archive/throwback-thursday-for-2025-01-02/) 2025 Jan 03
+ - [🤪 Wacky Wednesday for 2025-01-01](https://fudge.org/archive/wacky-wednesday-for-2025-01-01/) 2025 Jan 01
+ - [🔥 Hot Takes Tuesday for 2024-12-31](https://fudge.org/archive/hot-takes-tuesday-for-2024-12-31/) 2025 Jan 01
+ - [📈 Markets Monday for 2024-12-30](https://fudge.org/archive/markets-monday-for-2024-12-30/) 2024 Dec 31
+ - [🌶️ Hot Fudge Sunday for 2024-12-29](https://fudge.org/archive/hot-fudge-sunday-for-2024-12-29/) 2024 Dec 29
+ - [🔮 Sneak Peak Saturday for 2024-12-28](https://fudge.org/archive/sneak-peak-saturday-for-2024-12-28/) 2024 Dec 28
+ - [✅ Final Thoughts Friday for 2024-12-27](https://fudge.org/archive/final-thoughts-friday-for-2024-12-27/) 2024 Dec 28
+ - [🔙 Throwback Thursday for 2024-12-26](https://fudge.org/archive/throwback-thursday-for-2024-12-26/) 2024 Dec 27
+ - [🤪 Wacky Wednesday for 2024-12-25](https://fudge.org/archive/wacky-wednesday-for-2024-12-25/) 2024 Dec 25
+ - [🔥 Hot Takes Tuesday for 2024-12-24](https://fudge.org/archive/hot-takes-tuesday-for-2024-12-24/) 2024 Dec 25
+ - [📈 Markets Monday for 2024-12-23](https://fudge.org/archive/markets-monday-for-2024-12-23/) 2024 Dec 24
+ - [🌶️ Hot Fudge Sunday for 2024-12-22](https://fudge.org/archive/hot-fudge-sunday-for-2024-12-22/) 2024 Dec 22
+ - [🔮 Sneak Peak Saturday for 2024-12-21](https://fudge.org/archive/sneak-peak-saturday-for-2024-12-21/) 2024 Dec 21
+ - [✅ Final Thoughts Friday for 2024-12-20](https://fudge.org/archive/final-thoughts-friday-for-2024-12-20/) 2024 Dec 21
+ - [🔙 Throwback Thursday for 2024-12-19](https://fudge.org/archive/throwback-thursday-for-2024-12-19/) 2024 Dec 20
+ - [🤪 Wacky Wednesday for 2024-12-18](https://fudge.org/archive/wacky-wednesday-for-2024-12-18/) 2024 Dec 19
+ - [🔥 Hot Takes Tuesday for 2024-12-17](https://fudge.org/archive/hot-takes-tuesday-for-2024-12-17/) 2024 Dec 18
+ - [📈 Markets Monday for 2024-12-16](https://fudge.org/archive/markets-monday-for-2024-12-16/) 2024 Dec 17
+ - [🌶️ Hot Fudge Sunday for 2024-12-15](https://fudge.org/archive/hot-fudge-sunday-for-2024-12-15/) 2024 Dec 15
+ - [🔮 Sneak Peak Saturday for 2024-12-14](https://fudge.org/archive/sneak-peak-saturday-for-2024-12-14/) 2024 Dec 14
+ - [✅ Final Thoughts Friday for 2024-12-13](https://fudge.org/archive/final-thoughts-friday-for-2024-12-13/) 2024 Dec 14
+ - [🔙 Throwback Thursday for 2024-12-12](https://fudge.org/archive/throwback-thursday-for-2024-12-12/) 2024 Dec 13
+ - [🤪 Wacky Wednesday for 2024-12-11](https://fudge.org/archive/wacky-wednesday-for-2024-12-05-3767/) 2024 Dec 12
+ - [🔥 Hot Takes Tuesday for 2024-12-10](https://fudge.org/archive/hot-takes-tuesday-for-2024-12-10/) 2024 Dec 11
+ - [📈 Markets Monday for 2024-12-09](https://fudge.org/archive/markets-monday-for-2024-12-09/) 2024 Dec 10
+ - [🌶️ Hot Fudge Sunday for 2024-12-08](https://fudge.org/archive/hot-fudge-sunday-for-2024-12-08/) 2024 Dec 08
+ - [🔮 Sneak Peak Saturday for 2024-12-07](https://fudge.org/archive/sneak-peak-saturday-for-2024-12-07/) 2024 Dec 07
+ - [✅ Final Thoughts Friday for 2024-12-06](https://fudge.org/archive/final-thoughts-friday-for-2024-12-06/) 2024 Dec 07
+ - [🔙 Throwback Thursday for 2024-12-05](https://fudge.org/archive/throwback-thursday-for-2024-12-05/) 2024 Dec 06
+ - [🤪 Wacky Wednesday for 2024-12-04](https://fudge.org/archive/wacky-wednesday-for-2024-12-04/) 2024 Dec 05
+ - [🔥 Hot Takes Tuesday for 2024-12-03](https://fudge.org/archive/hot-takes-tuesday-for-2024-12-03/) 2024 Dec 04
+ - [📈 Markets Monday for 2024-12-02](https://fudge.org/archive/markets-monday-for-2024-12-02/) 2024 Dec 03
+ - [🌶️ Hot Fudge Sunday for 2024-12-01](https://fudge.org/archive/hot-fudge-sunday-for-2024-12-01/) 2024 Dec 01
+ - [🔮 Sneak Peak Saturday for 2024-11-30](https://fudge.org/archive/sneak-peak-saturday-for-2024-11-30/) 2024 Nov 30
+ - [✅ Final Thoughts Friday for 2024-11-29](https://fudge.org/archive/final-thoughts-friday-for-2024-11-29/) 2024 Nov 30
  - [Fudge Factor: Holiday Updates](https://fudge.org/archive/fudge-factor-holiday-updates/) 2024 Nov 30
+ - [🔙 Throwback Thursday for 2024-11-28](https://fudge.org/archive/throwback-thursday-for-2024-11-28/) 2024 Nov 29
+ - [🤪 Wacky Wednesday for 2024-11-27](https://fudge.org/archive/wacky-wednesday-for-2024-11-27/) 2024 Nov 28
+ - [🔥 Hot Takes Tuesday for 2024-11-26](https://fudge.org/archive/hot-takes-tuesday-for-2024-11-26/) 2024 Nov 27
+ - [📈 Markets Monday for 2024-11-25](https://fudge.org/archive/markets-monday-for-2024-11-25/) 2024 Nov 26
+ - [🌶️ Hot Fudge Sunday for 2024-11-24](https://fudge.org/archive/hot-fudge-sunday-for-2024-11-24/) 2024 Nov 24
+ - [🔮 Sneak Peak Saturday for 2024-11-23](https://fudge.org/archive/sneak-peak-saturday-for-2024-11-23/) 2024 Nov 23
+ - [✅ Final Thoughts Friday for 2024-11-22](https://fudge.org/archive/final-thoughts-friday-for-2024-11-22/) 2024 Nov 23
+ - [🔙 Throwback Thursday for 2024-11-21](https://fudge.org/archive/throwback-thursday-for-2024-11-21/) 2024 Nov 22
+ - [🤪 Wacky Wednesday for 2024-11-20](https://fudge.org/archive/wacky-wednesday-for-2024-11-20/) 2024 Nov 21
+ - [🔥 Hot Takes Tuesday for 2024-11-19](https://fudge.org/archive/hot-takes-tuesday-for-2024-11-19/) 2024 Nov 20
  - [Jay Cuthrell joins NexusTek](https://cuthrell.consulting/blog/jay-cuthrell-joins-nexustek/) 2024 Nov 20
+ - [📈 Markets Monday for 2024-11-18](https://fudge.org/archive/markets-monday-for-2024-11-18/) 2024 Nov 19
+ - [🌶️ Hot Fudge Sunday for 2024-11-17](https://fudge.org/archive/hot-fudge-sunday-for-2024-11-17/) 2024 Nov 17
+ - [🔮 Sneak Peak Saturday for 2024-11-16](https://fudge.org/archive/sneak-peak-saturday-for-2024-11-16/) 2024 Nov 16
+ - [✅ Final Thoughts Friday for 2024-11-15](https://fudge.org/archive/final-thoughts-friday-for-2024-11-15/) 2024 Nov 16
+ - [🔙 Throwback Thursday for 2024-11-14](https://fudge.org/archive/throwback-thursday-for-2024-11-14/) 2024 Nov 16
+ - [🤪 Wacky Wednesday for 2024-11-13](https://fudge.org/archive/wacky-wednesday-for-2024-11-13/) 2024 Nov 14
+ - [🔥 Hot Takes Tuesday for 2024-11-12](https://fudge.org/archive/hot-takes-tuesday-for-2024-11-12/) 2024 Nov 13
+ - [📈 Markets Monday for 2024-11-11](https://fudge.org/archive/markets-monday-for-2024-11-11/) 2024 Nov 13
+ - [🌶️ Hot Fudge Sunday for 2024-11-10](https://fudge.org/archive/hot-fudge-sunday-for-2024-11-10/) 2024 Nov 10
+ - [🌶️ Hot Fudge Sunday for 2024-11-03](https://fudge.org/archive/hot-fudge-sunday-for-2024-11-03/) 2024 Nov 03
+ - [🔮 Sneak Peak Saturday for 2024-11-02](https://fudge.org/archive/sneak-peak-saturday-for-2024-11-02/) 2024 Nov 02
+ - [✅ Final Thoughts Friday for 2024-11-01](https://fudge.org/archive/final-thoughts-friday-for-2024-11-01/) 2024 Nov 02
+ - [🔙 Throwback Thursday for 2024-10-31](https://fudge.org/archive/throwback-thursday-for-2024-10-31/) 2024 Nov 02
+ - [🤪 Wacky Wednesday for 2024-10-30](https://fudge.org/archive/wacky-wednesday-for-2024-10-30/) 2024 Nov 02
+ - [🔥 Hot Takes Tuesday for 2024-10-29](https://fudge.org/archive/hot-takes-tuesday-for-2024-10-29/) 2024 Oct 30
+ - [📈 Markets Monday for 2024-10-28](https://fudge.org/archive/markets-monday-for-2024-10-28/) 2024 Oct 29
+ - [🌶️ Hot Fudge Sunday for 2024-10-27](https://fudge.org/archive/hot-fudge-sunday-for-2024-10-27/) 2024 Oct 27
+ - [🔮 Sneak Peak Saturday for 2024-10-26](https://fudge.org/archive/sneak-peak-saturday-for-2024-10-26/) 2024 Oct 26
+ - [✅ Final Thoughts Friday for 2024-10-25](https://fudge.org/archive/final-thoughts-friday-for-2024-10-25/) 2024 Oct 26
+ - [🔙 Throwback Thursday for 2024-10-24](https://fudge.org/archive/throwback-thursday-for-2024-10-24/) 2024 Oct 26
+ - [🤪 Wacky Wednesday for 2024-10-23](https://fudge.org/archive/wacky-wednesday-for-2024-10-23/) 2024 Oct 25
+ - [🔥 Hot Takes Tuesday for 2024-10-22](https://fudge.org/archive/hot-takes-tuesday-for-2024-10-22/) 2024 Oct 23
+ - [📈 Markets Monday for 2024-10-21](https://fudge.org/archive/markets-monday-for-2024-10-21/) 2024 Oct 22
+ - [🌶️ Hot Fudge Sunday for 2024-10-20](https://fudge.org/archive/hot-fudge-sunday-for-2024-10-20/) 2024 Oct 20
+ - [🔮 Sneak Peak Saturday for 2024-10-19](https://fudge.org/archive/sneak-peak-saturday-for-2024-10-19/) 2024 Oct 19
+ - [✅ Final Thoughts Friday for 2024-10-18](https://fudge.org/archive/final-thoughts-friday-for-2024-10-18/) 2024 Oct 18
+ - [🔙 Throwback Thursday for 2024-10-17](https://fudge.org/archive/throwback-thursday-for-2024-10-17/) 2024 Oct 18
+ - [🤪 Wacky Wednesday for 2024-10-16](https://fudge.org/archive/wacky-wednesday-for-2024-10-16/) 2024 Oct 17
+ - [🔥 Hot Takes Tuesday for 2024-10-15](https://fudge.org/archive/hot-takes-tuesday-for-2024-10-15/) 2024 Oct 16
+ - [📈 Markets Monday for 2024-10-14](https://fudge.org/archive/markets-monday-for-2024-10-14/) 2024 Oct 14
+ - [🌶️ Hot Fudge Sunday for 2024-10-13](https://fudge.org/archive/hot-fudge-sunday-for-2024-10-13/) 2024 Oct 13
  - [Strategic Perspectives and 2025 Trends](https://cuthrell.consulting/blog/strategic-perspectives-and-2025-trends/) 2024 Oct 09
+ - [🌶️ Hot Fudge Sunday for 2024-10-06](https://fudge.org/archive/hot-fudge-sunday-for-2024-10-06/) 2024 Oct 06
+ - [🔮 Sneak Peak Saturday for 2024-10-05](https://fudge.org/archive/sneak-peak-saturday-for-2024-10-05/) 2024 Oct 06
+ - [✅ Final Thoughts Friday for 2024-10-04](https://fudge.org/archive/final-thoughts-friday-for-2024-10-04/) 2024 Oct 05
+ - [🔙 Throwback Thursday for 2024-10-03](https://fudge.org/archive/throwback-thursday-for-2024-10-03/) 2024 Oct 04
+ - [🤪 Wacky Wednesday for 2024-10-02](https://fudge.org/archive/wacky-wednesday-for-2024-10-02/) 2024 Oct 02
+ - [🔥 Hot Takes Tuesday for 2024-10-01](https://fudge.org/archive/hot-takes-tuesday-for-2024-10-01/) 2024 Oct 01
+ - [📈 Markets Monday for 2024-09-30](https://fudge.org/archive/markets-monday-for-2024-09-30/) 2024 Sep 30
+ - [🌶️ Hot Fudge Sunday for 2024-09-29](https://fudge.org/archive/hot-fudge-sunday-for-2024-09-29/) 2024 Sep 29
+ - [🔮 Sneak Peak Saturday for 2024-09-28](https://fudge.org/archive/sneak-peak-saturday-for-2024-09-28/) 2024 Sep 28
+ - [✅ Final Thoughts Friday for 2024-09-27](https://fudge.org/archive/final-thoughts-friday-for-2024-09-27/) 2024 Sep 28
+ - [🔙 Throwback Thursday for 2024-09-26](https://fudge.org/archive/throwback-thursday-for-2024-09-26/) 2024 Sep 27
  - [AI Field Day 5 - Arista](https://cuthrell.consulting/blog/ai-field-day-5-arista/) 2024 Sep 27
  - [AI Field Day 5 - Enfabrica](https://cuthrell.consulting/blog/ai-field-day-5-enfabrica/) 2024 Sep 27
  - [AI Field Day 5 - VMware](https://cuthrell.consulting/blog/ai-field-day-5-vmware/) 2024 Sep 26
  - [AI Field Day 5 - Elastic](https://cuthrell.consulting/blog/ai-field-day-5-elastic/) 2024 Sep 26
  - [AI Field Day 5 - Cisco](https://cuthrell.consulting/blog/ai-field-day-5-cisco/) 2024 Sep 26
+ - [🤪 Wacky Wednesday for 2024-09-25](https://fudge.org/archive/wacky-wednesday-for-2024-09-25/) 2024 Sep 25
+ - [🔥 Hot Takes Tuesday for 2024-09-24](https://fudge.org/archive/hot-takes-tuesday-for-2024-09-24/) 2024 Sep 25
  - [AI Field Day 5 - Keysight Technologies](https://cuthrell.consulting/blog/ai-field-day-5-keysight-technologies/) 2024 Sep 25
  - [AI Field Day 5 - Integrail](https://cuthrell.consulting/blog/ai-field-day-5-integrail/) 2024 Sep 25
+ - [📈 Markets Monday for 2024-09-23](https://fudge.org/archive/markets-monday-for-2024-09-23/) 2024 Sep 24
+ - [🌶️ Hot Fudge Sunday for 2024-09-22](https://fudge.org/archive/hot-fudge-sunday-for-2024-09-22/) 2024 Sep 22
+ - [🔮 Sneak Peak Saturday for 2024-09-21](https://fudge.org/archive/sneak-peak-saturday-for-2024-09-21/) 2024 Sep 21
+ - [✅ Final Thoughts Friday for 2024-09-20](https://fudge.org/archive/final-thoughts-friday-for-2024-09-20/) 2024 Sep 21
+ - [🔙 Throwback Thursday for 2024-09-19](https://fudge.org/archive/throwback-thursday-for-2024-09-19/) 2024 Sep 19
+ - [🤪 Wacky Wednesday for 2024-09-18](https://fudge.org/archive/wacky-wednesday-for-2024-09-18/) 2024 Sep 19
+ - [🔥 Hot Takes Tuesday for 2024-09-17](https://fudge.org/archive/hot-takes-tuesday-for-2024-09-17/) 2024 Sep 19
+ - [📈 Markets Monday for 2024-09-16](https://fudge.org/archive/markets-monday-for-2024-09-16/) 2024 Sep 17
+ - [🌶️ Hot Fudge Sunday for 2024-09-15](https://fudge.org/archive/hot-fudge-sunday-for-2024-09-15/) 2024 Sep 15
+ - [🔮 Sneak Peak Saturday for 2024-09-14](https://fudge.org/archive/sneak-peak-saturday-for-2024-09-14/) 2024 Sep 15
+ - [✅ Final Thoughts Friday for 2024-09-13](https://fudge.org/archive/final-thoughts-friday-for-2024-09-13/) 2024 Sep 14
+ - [🔙 Throwback Thursday for 2024-09-12](https://fudge.org/archive/throwback-thursday-for-2024-09-12/) 2024 Sep 13
+ - [🤪 Wacky Wednesday for 2024-09-11](https://fudge.org/archive/wacky-wednesday-for-2024-09-11/) 2024 Sep 12
+ - [🔥 Hot Takes Tuesday for 2024-09-10](https://fudge.org/archive/hot-takes-tuesday-for-2024-09-10/) 2024 Sep 11
+ - [📈 Markets Monday for 2024-09-09](https://fudge.org/archive/markets-monday-for-2024-09-09/) 2024 Sep 09
+ - [🌶️ Hot Fudge Sunday for 2024-09-08](https://fudge.org/archive/hot-fudge-sunday-for-2024-09-08/) 2024 Sep 08
  - [Fudge Factor: Edge to Core to Cloud](https://fudge.org/archive/fudge-factor-edge-to-core-to-cloud/) 2024 Sep 08
+ - [🔮 Sneak Peak Saturday for 2024-09-07](https://fudge.org/archive/sneak-peak-saturday-for-2024-09-07/) 2024 Sep 07
+ - [✅ Final Thoughts Friday for 2024-09-06](https://fudge.org/archive/final-thoughts-friday-for-2024-09-06/) 2024 Sep 07
+ - [🔙 Throwback Thursday for 2024-09-05](https://fudge.org/archive/throwback-thursday-for-2024-09-05/) 2024 Sep 05
+ - [🤪 Wacky Wednesday for 2024-09-04](https://fudge.org/archive/wacky-wednesday-for-2024-09-04/) 2024 Sep 05
+ - [🔥 Hot Takes Tuesday for 2024-09-03](https://fudge.org/archive/hot-takes-tuesday-for-2024-09-03/) 2024 Sep 04
+ - [📈 Markets Monday for 2024-09-02](https://fudge.org/archive/markets-monday-for-2024-09-02/) 2024 Sep 02
  - [AI Field Day 5](https://cuthrell.consulting/blog/ai-field-day-5/) 2024 Sep 02
+ - [🌶️ Hot Fudge Sunday for 2024-09-01](https://fudge.org/archive/hot-fudge-sunday-for-2024-09-01/) 2024 Sep 01
  - [Fudge Factor: Practical IIoT](https://fudge.org/archive/fudge-factor-practical-iiot/) 2024 Sep 01
+ - [🔮 Sneak Peak Saturday for 2024-08-31](https://fudge.org/archive/sneak-peak-saturday-for-2024-08-31/) 2024 Aug 31
+ - [✅ Final Thoughts Friday for 2024-08-30](https://fudge.org/archive/final-thoughts-friday-for-2024-08-30/) 2024 Aug 31
+ - [🔙 Throwback Thursday for 2024-08-29](https://fudge.org/archive/throwback-thursday-for-2024-08-29/) 2024 Aug 30
+ - [🤪 Wacky Wednesday for 2024-08-28](https://fudge.org/archive/wacky-wednesday-for-2024-08-28/) 2024 Aug 29
+ - [🔥 Hot Takes Tuesday for 2024-08-27](https://fudge.org/archive/hot-takes-tuesday-for-2024-08-27/) 2024 Aug 27
+ - [📈 Markets Monday for 2024-08-26](https://fudge.org/archive/markets-monday-for-2024-08-26/) 2024 Aug 26
+ - [🌶️ Hot Fudge Sunday for 2024-08-25](https://fudge.org/archive/hot-fudge-sunday-for-2024-08-25/) 2024 Aug 25
  - [Fudge Factor: Telemetry Challenges](https://fudge.org/archive/fudge-factor-telemetry-challenges/) 2024 Aug 25
+ - [📈 Markets Monday for 2024-08-19](https://fudge.org/archive/markets-monday-for-2024-08-19/) 2024 Aug 24
+ - [🔮 Sneak Peak Saturday for 2024-08-24](https://fudge.org/archive/sneak-peak-saturday-for-2024-08-24/) 2024 Aug 24
+ - [✅ Final Thoughts Friday for 2024-08-23](https://fudge.org/archive/final-thoughts-friday-for-2024-08-23/) 2024 Aug 24
+ - [🔙 Throwback Thursday for 2024-08-22](https://fudge.org/archive/throwback-thursday-for-2024-08-22/) 2024 Aug 23
+ - [🤪 Wacky Wednesday for 2024-08-21](https://fudge.org/archive/wacky-wednesday-for-2024-08-21/) 2024 Aug 22
+ - [🔥 Hot Takes Tuesday for 2024-08-20](https://fudge.org/archive/hot-takes-tuesday-for-2024-08-20/) 2024 Aug 20
+ - [🌶️ Hot Fudge Sunday for 2024-08-18](https://fudge.org/archive/hot-fudge-sunday-for-08-18/) 2024 Aug 18
  - [Fudge Factor: Calibration and Validation](https://fudge.org/archive/fudge-factor-calibration-and-validation/) 2024 Aug 18
+ - [🔮 Sneak Peak Saturday for 2024-08-17](https://fudge.org/archive/sneak-peak-saturday-for-2024-08-17/) 2024 Aug 17
+ - [✅ Final Thoughts Friday for 2024-08-16](https://fudge.org/archive/final-thoughts-friday-for-2024-08-16/) 2024 Aug 16
+ - [🔙 Throwback Thursday for 2024-08-15](https://fudge.org/archive/throwback-thursday-for-2024-08-15/) 2024 Aug 15
+ - [🤪 Wacky Wednesday for 2024-08-14](https://fudge.org/archive/wacky-wednesday-for-2024-08-14/) 2024 Aug 15
+ - [🔥 Hot Takes Tuesday for 2024-08-13](https://fudge.org/archive/hot-takes-tuesday-for-2024-08-13/) 2024 Aug 13
+ - [📈 Markets Monday for 2024-08-12](https://fudge.org/archive/markets-monday-for-2024-08-12/) 2024 Aug 12
+ - [🌶️ Hot Fudge Sunday for 08-11-2024](https://fudge.org/archive/hot-fudge-sunday-for-08-11-2024/) 2024 Aug 11
  - [Fudge Factor Format](https://fudge.org/archive/fudge-factor-format/) 2024 Aug 11
+ - [🔮 Sneak Peak Saturday for 2024-08-10](https://fudge.org/archive/sneak-peak-saturday-for-2024-08-10/) 2024 Aug 10
+ - [✅ Final Thoughts Friday for 2024-08-09](https://fudge.org/archive/final-thoughts-friday-for-2024-08-09/) 2024 Aug 10
+ - [🔙 Throwback Thursday for 2024-08-08](https://fudge.org/archive/throwback-thursday-for-2024-08-08/) 2024 Aug 09
+ - [🤪 Wacky Wednesday for 2024-08-07](https://fudge.org/archive/wacky-wednesday-for-2024-08-07/) 2024 Aug 08
+ - [🔥 Hot Takes Tuesday for 2024-08-06](https://fudge.org/archive/hot-takes-tuesday-for-2024-08-06/) 2024 Aug 07
+ - [📈 Markets Monday for 2024-08-05](https://fudge.org/archive/markets-monday-for-2024-08-05/) 2024 Aug 06
+ - [🌶️ Welcome to Hot Fudge Sunday](https://fudge.org/archive/welcome-to-hot-fudge-sunday/) 2024 Aug 04
+ - [🔮 Sneak Peak Saturday for 2024-08-03](https://fudge.org/archive/sneak-peak-saturday-for-2024-08-03/) 2024 Aug 04
  - [Fudge Factor](https://fudge.org/archive/fudge-factor/) 2024 Aug 04
+ - [Testing the waters of Buttondown Automation #2](https://fudge.org/archive/testing-the-waters-of-buttondown-automation-2/) 2024 Aug 02
+ - [Testing the waters of Buttondown Automation](https://fudge.org/archive/testing-the-waters-of-buttondown-automation/) 2024 Aug 02
+ - [✅ Final Thoughts Friday for 2024-08-02](https://fudge.org/archive/final-thoughts-friday-for-2024-08-02/) 2024 Aug 02
+ - [🔙 Throwback Thursday for 2024-08-01](https://fudge.org/archive/throwback-thursday-for-2024-08-1/) 2024 Aug 02
+ - [🤪 Wacky Wednesday for 2024-07-31](https://fudge.org/archive/wacky-wednesday-for-2024-07-31/) 2024 Jul 31
+ - [🔥 Hot Takes Tuesday for 2024-07-30](https://fudge.org/archive/hot-takes-tuesday-for-2024-07-30/) 2024 Jul 31
+ - [📈 Markets Monday for 2024-07-29](https://fudge.org/archive/markets-monday-for-2024-07-29/) 2024 Jul 30
+ - [🌶️ Spicy Edition Sunday for 2024-07-28](https://fudge.org/archive/spicy-edition-sunday-for-2024-07-28/) 2024 Jul 28
  - [Increasingly Connected](https://fudge.org/archive/increasingly-connected/) 2024 Jul 28
+ - [🔮 Sneak Peak Saturday for 2024-07-27](https://fudge.org/archive/sneak-peak-saturday-for-2024-07-27/) 2024 Jul 27
+ - [✅ Final Thoughts Friday for 2024-07-26](https://fudge.org/archive/final-thoughts-friday-for-2024-07-26/) 2024 Jul 26
+ - [🔙 Throwback Thursday for 2024-07-25](https://fudge.org/archive/throwback-thursday-for-2024-07-25/) 2024 Jul 25
+ - [🤪 Wacky Wednesday for 2024-07-24](https://fudge.org/archive/wacky-wednesday-for-2024-07-24/) 2024 Jul 24
+ - [🔥 Hot Takes Tuesday for 2024-07-23](https://fudge.org/archive/hot-takes-tuesday-for-2024-07-23/) 2024 Jul 23
+ - [📈 Markets Monday for 2024-07-22](https://fudge.org/archive/markets-monday-for-2024-07-22/) 2024 Jul 23
+ - [🌶️ Spicy Edition Sunday for 2024-07-21](https://fudge.org/archive/spicy-edition-sunday-for-2024-07-21/) 2024 Jul 21
  - [Finding My Niche](https://fudge.org/archive/finding-my-niche/) 2024 Jul 21
+ - [🔮 Sneak Peak Saturday for 2024-07-20](https://fudge.org/archive/sneak-peak-saturday-for-2024-07-20/) 2024 Jul 20
+ - [✅ Final Thoughts Friday for 2024-07-19](https://fudge.org/archive/final-thoughts-friday-for-2024-07-19/) 2024 Jul 20
+ - [🔙 Throwback Thursday for 2024-07-18](https://fudge.org/archive/throwback-thursday-for-2024-07-18/) 2024 Jul 18
+ - [🤪 Wacky Wednesday for 2024-07-17](https://fudge.org/archive/wacky-wednesday-for-2024-07-17/) 2024 Jul 18
+ - [🔥 Hot Takes Tuesday for 2024-07-16](https://fudge.org/archive/hot-takes-tuesday-for-2024-07-16/) 2024 Jul 17
+ - [📈 Markets Monday for 2024-07-15](https://fudge.org/archive/markets-monday-for-2024-07-15/) 2024 Jul 15
+ - [Spicy Edition Sunday for 2024-07-14](https://fudge.org/archive/spicy-edition-sunday-for-2024-07-14/) 2024 Jul 14
  - [SXSW 2025: Senior Moments](https://fudge.org/archive/sxsw-2025-senior-moments/) 2024 Jul 14
+ - [Sneak Peak Saturday for 2024-07-13](https://fudge.org/archive/sneak-peak-saturday-for-2024-07-13/) 2024 Jul 13
+ - [Final Thoughts Friday for 2024-07-12](https://fudge.org/archive/final-thoughts-friday-for-2024-07-12/) 2024 Jul 12
+ - [Throwback Thursday for 2024-07-11](https://fudge.org/archive/throwback-thursday-for-2024-07-11/) 2024 Jul 11
+ - [Wacky Wednesday for 2024-07-10](https://fudge.org/archive/wacky-wednesday-for-2024-07-10/) 2024 Jul 11
+ - [Hot Takes Tuesday for 2024-07-09](https://fudge.org/archive/hot-takes-tuesday-for-2024-07-09/) 2024 Jul 10
+ - [Markets Monday for 2024-07-08](https://fudge.org/archive/markets-monday-for-2024-07-08/) 2024 Jul 08
+ - [Spicy Edition Sunday for 2024-07-07](https://fudge.org/archive/spicy-edition-sunday-for-2024-07-07/) 2024 Jul 07
  - [Run Fly Visualize](https://fudge.org/archive/run-fly-visualize/) 2024 Jul 07
+ - [Sneak Peak Saturday for 2024-07-06](https://fudge.org/archive/sneak-peak-saturday-for-2024-07-06/) 2024 Jul 06
+ - [Final Thoughts Friday for 2024-07-05](https://fudge.org/archive/final-thoughts-friday-for-2024-07-05/) 2024 Jul 05
+ - [Throwback Thursday for 2024-07-04](https://fudge.org/archive/throwback-thursday-for-2024-07-04/) 2024 Jul 04
+ - [Wacky Wednesday for 2024-07-03](https://fudge.org/archive/wacky-wednesday-for-2024-07-03/) 2024 Jul 03
+ - [Hot Takes Tuesday for 2024-07-02](https://fudge.org/archive/hot-takes-tuesday-for-2024-07-02/) 2024 Jul 02
+ - [Markets Monday for 2024-07-01](https://fudge.org/archive/markets-monday-for-2024-07-01/) 2024 Jul 01
+ - [Spicy Edition Sunday for 2024-06-30](https://fudge.org/archive/spicy-edition-sunday-for-2024-06-30/) 2024 Jun 30
  - [Sprawl Walk Run](https://fudge.org/archive/sprawl-walk-run/) 2024 Jun 30
+ - [Sneak Peak Saturday for 2024-06-29](https://fudge.org/archive/sneak-peak-saturday-for-2024-06-29/) 2024 Jun 29
+ - [Final Thoughts Friday for 2024-06-28](https://fudge.org/archive/final-thoughts-friday-for-2024-06-28/) 2024 Jun 28
+ - [Throwback Thursday for 2024-06-27](https://fudge.org/archive/throwback-thursday-for-2024-06-27/) 2024 Jun 27
+ - [Wacky Wednesday for 2024-06-26](https://fudge.org/archive/wacky-wednesday-for-2024-06-26/) 2024 Jun 26
+ - [Hot Takes Tuesday for 2024-06-25](https://fudge.org/archive/hot-takes-tuesday-for-2024-06-25/) 2024 Jun 25
+ - [Markets Monday for 2024-06-24](https://fudge.org/archive/markets-monday-for-2024-06-24/) 2024 Jun 24
+ - [Spicy Edition Sunday for 2024-06-23](https://fudge.org/archive/spicy-edition-sunday-for-2024-06-23/) 2024 Jun 23
  - [Summary Solstice](https://fudge.org/archive/summary-solstice/) 2024 Jun 23
+ - [Sneak Peak Saturday for 2024-06-22](https://fudge.org/archive/sneak-peak-saturday-for-2024-06-22/) 2024 Jun 22
+ - [Final Thoughts Friday for 2024-06-21](https://fudge.org/archive/final-thoughts-friday-for-2024-06-21/) 2024 Jun 21
+ - [Throwback Thursday for 2024-06-20](https://fudge.org/archive/throwback-thursday-for-2024-06-20/) 2024 Jun 20
+ - [Wacky Wednesday for 2024-06-19](https://fudge.org/archive/wacky-wednesday-for-2024-06-19/) 2024 Jun 19
+ - [Hot Takes Tuesday for 2024-06-18](https://fudge.org/archive/hot-takes-tuesday-for-2024-06-18/) 2024 Jun 18
+ - [Markets Monday for 2024-06-17](https://fudge.org/archive/markets-monday-for-2024-06-17/) 2024 Jun 17
  - [Complexity Kills Innovation](https://cuthrell.consulting/blog/complexity-kills-innovation/) 2024 Jun 17
+ - [Spicy Edition Sunday for 2024-06-16](https://fudge.org/archive/spicy-edition-sunday-for-2024-06-16/) 2024 Jun 16
  - [Hot Fudge Daily Digest](https://fudge.org/archive/hot-fudge-daily-digest/) 2024 Jun 16
+ - [Sneak Peak Saturday for 2024-06-15](https://fudge.org/archive/sneak-peak-saturday-for-2024-06-15/) 2024 Jun 15
+ - [Final Thoughts Friday for 2024-06-14](https://fudge.org/archive/final-thoughts-friday-for-2024-06-14/) 2024 Jun 14
+ - [Throwback Thursday for 2024-06-13](https://fudge.org/archive/throwback-thursday-for-2024-06-13/) 2024 Jun 13
+ - [Wacky Wednesday for 2024-06-12](https://fudge.org/archive/wacky-wednesday-for-2024-06-12/) 2024 Jun 12
+ - [Hot Takes Tuesday for 2024-06-11](https://fudge.org/archive/hot-takes-tuesday-for-2024-06-11/) 2024 Jun 11
+ - [Markets Monday](https://fudge.org/archive/markets-monday/) 2024 Jun 10
+ - [Spicy Edition Sunday](https://fudge.org/archive/spicy-edition-sunday/) 2024 Jun 09
  - [Project Liberty & DSNP](https://fudge.org/archive/project-liberty-and-dsnp/) 2024 Jun 09
  - [Qlik Connect 2024 Recap](https://cuthrell.consulting/blog/qlik-connect-2024-recap/) 2024 Jun 09
+ - [Sneak Peak Saturday](https://fudge.org/archive/sneak-peak-saturday/) 2024 Jun 08
+ - [Final Thoughts Friday](https://fudge.org/archive/final-thoughts-friday/) 2024 Jun 07
+ - [Throwback Thursday](https://fudge.org/archive/throwback-thursday/) 2024 Jun 06
+ - [Wacky Wednesday](https://fudge.org/archive/wacky-wednesday/) 2024 Jun 06
+ - [Hot Takes Tuesday](https://fudge.org/archive/hot-takes-tuesday/) 2024 Jun 05
+ - [Hello World](https://fudge.org/archive/hello-world/) 2024 Jun 02
  - [GenAI June](https://fudge.org/archive/genai-june/) 2024 Jun 02
  - [Qlik Connect](https://cuthrell.consulting/blog/qlik-connect/) 2024 Jun 01
  - [Miscellaneous May](https://fudge.org/archive/miscellaneous-may/) 2024 May 26
@@ -174,8 +520,8 @@
  - [Fudge Sunday Test 4](https://fudge.org/archive/fudge-sunday-test-4/) 2022 Jul 03
  - [Make IIoT Easy On Yourself](https://fudge.org/archive/make-iiot-easy-on-yourself/) 2022 Jun 26
  - [Fudge Sunday Test 3](https://fudge.org/archive/fudge-sunday-test-3/) 2022 Jun 26
- - [Me and My POSSE](https://fudge.org/archive/me-and-my-posse/) 2022 Jun 19
  - [Reading Fudge Sunday Test 2](https://fudge.org/archive/reading-fudge-sunday-test-2/) 2022 Jun 19
+ - [Me and My POSSE](https://fudge.org/archive/me-and-my-posse/) 2022 Jun 19
  - [Around the Bend](https://fudge.org/archive/around-the-bend/) 2022 Jun 12
  - [Reading Fudge Sunday Test 1](https://fudge.org/archive/reading-fudge-sunday-test-1/) 2022 Jun 12
  - [Fudge Sunday - Moving Out](https://fudge.org/archive/fudge-sunday-moving-out/) 2022 Jun 05
@@ -324,7 +670,7 @@
  - [Tel Aviv Traceroute](https://fudge.org/archive/tel-aviv-traceroute/) 2000 Apr 29
  - [The Fudge FAQ](https://fudge.org/archive/the-fudge-faq/) 1998 Dec 12<hr>
 <div align="center">
-My README.md was last auto generated Sun Jun 22 22:09:05 2025
+My README.md was last auto generated Sun Jun 29 22:09:00 2025
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
