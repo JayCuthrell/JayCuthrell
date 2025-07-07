@@ -8,15 +8,15 @@
 - 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
- - [🌶️ Hot Fudge Sunday for 2025-06-29](https://fudge.org/archive/hot-fudge-sunday-for-2025-06-29/) 2025 Jun 29
- - [🔮 Sneak Peak Saturday for 2025-06-28](https://fudge.org/archive/sneak-peak-saturday-for-2025-06-28/) 2025 Jun 28
- - [✅ Final Thoughts Friday for 2025-06-27](https://fudge.org/archive/final-thoughts-friday-for-2025-06-27/) 2025 Jun 28
- - [🔙 Throwback Thursday for 2025-06-26](https://fudge.org/archive/throwback-thursday-for-2025-06-26/) 2025 Jun 26
- - [🤪 Wacky Wednesday for 2025-06-25](https://fudge.org/archive/wacky-wednesday-for-2025-06-25/) 2025 Jun 25
- - [🔥 Hot Takes Tuesday for 2025-06-24](https://fudge.org/archive/hot-takes-tuesday-for-2025-06-24/) 2025 Jun 24
- - [📈 Markets Monday for 2025-06-23](https://fudge.org/archive/markets-monday-for-2025-06-23/) 2025 Jun 23<hr>
+ - [🌶️ Hot Fudge Sunday for 2025-07-06](https://fudge.org/archive/hot-fudge-sunday-for-2025-07-06/) 2025 Jul 06
+ - [🔮 Sneak Peak Saturday for 2025-07-05](https://fudge.org/archive/sneak-peak-saturday-for-2025-07-05/) 2025 Jul 05
+ - [✅ Final Thoughts Friday for 2025-07-04](https://fudge.org/archive/final-thoughts-friday-for-2025-07-04/) 2025 Jul 05
+ - [🔙 Throwback Thursday for 2025-07-03](https://fudge.org/archive/throwback-thursday-for-2025-07-03/) 2025 Jul 04
+ - [🤪 Wacky Wednesday for 2025-07-02](https://fudge.org/archive/wacky-wednesday-for-2025-07-02/) 2025 Jul 03
+ - [🔥 Hot Takes Tuesday for 2025-07-01](https://fudge.org/archive/hot-takes-tuesday-for-2025-07-01/) 2025 Jul 02
+ - [📈 Markets Monday for 2025-06-30](https://fudge.org/archive/markets-monday-for-2025-06-30/) 2025 Jun 30<hr>
 <div align="center">
-My README.md was last auto generated Sun Jun 29 22:18:35 2025
+My README.md was last auto generated Sun Jul  6 22:09:05 2025
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
