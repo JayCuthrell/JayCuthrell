@@ -7,7 +7,7 @@
 - ⚡ Fun fact: According to loyalty trackers, I've lived several years of my life in hotels
 - 💼 Work: [NexusTek](https://nexustek.com)
 
-### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)
+### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org) and [cuthrell.consulting](https://cuthrell.consulting)
  - [🌶️ Hot Fudge Sunday for 2025-08-17](https://fudge.org/archive/hot-fudge-sunday-for-2025-08-17/) 2025 Aug 17
  - [🔮 Sneak Peak Saturday for 2025-08-16](https://fudge.org/archive/sneak-peak-saturday-for-2025-08-16/) 2025 Aug 16
  - [✅ Final Thoughts Friday for 2025-08-15](https://fudge.org/archive/final-thoughts-friday-for-2025-08-15/) 2025 Aug 15
