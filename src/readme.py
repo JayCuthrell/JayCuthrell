@@ -28,17 +28,16 @@ def update_readme_buttondown_posts(buttondown_feed, readme_base, join_on):
     posts_joined = '\n'.join(posts)
     return readme_base[:readme_base.find(rss_title)] + f"{join_on}\n{posts_joined}"
 
-def combine_feeds(feed1, feed2, feed3):
-    combined_entries = feed1 + feed2 + feed3
+def combine_feeds(feed1, feed2):
+    combined_entries = feed1 + feed2
     combined_entries.sort(key=lambda item: item.updated_parsed, reverse=True)
     return combined_entries
-rss_title = "### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org), [hot.fudge.org](https://hot.fudge.org), and [cuthrell.consulting](https://cuthrell.consulting)"
+rss_title = "### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org) and [cuthrell.consulting](https://cuthrell.consulting)"
 readme = Path('../README.md').read_text()
 # Fetch and combine feeds
 feed1 = reverse_rss_feed("https://fudge.org/feed.xml")
-feed2 = reverse_rss_feed("https://hot.fudge.org/rss")
-feed3 = reverse_rss_feed("https://cuthrell.consulting/feed.xml")
-combined_feed = combine_feeds(feed1, feed2, feed3)
+feed2 = reverse_rss_feed("https://cuthrell.consulting/feed.xml")
+combined_feed = combine_feeds(feed1, feed2)
 posts = []
 for item in combined_feed[:7]:
     title = item.title
