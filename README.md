@@ -6,15 +6,15 @@
 - 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org) and [cuthrell.consulting](https://cuthrell.consulting)
- - [🌶️ Hot Fudge Sunday for 2025-10-26](https://fudge.org/archive/hot-fudge-sunday-for-2025-10-26/) 2025 Oct 26
- - [🔮 Sneak Peak Saturday for 2025-10-25](https://fudge.org/archive/sneak-peak-saturday-for-2025-10-25/) 2025 Oct 25
- - [✅ Final Thoughts Friday for 2025-10-24](https://fudge.org/archive/final-thoughts-friday-for-2025-10-24/) 2025 Oct 24
- - [🔙 Throwback Thursday for 2025-10-23](https://fudge.org/archive/throwback-thursday-for-2025-10-23/) 2025 Oct 23
- - [🤪 Wacky Wednesday for 2025-10-22](https://fudge.org/archive/wacky-wednesday-for-2025-10-22/) 2025 Oct 22
- - [🔥 Hot Takes Tuesday for 2025-10-21](https://fudge.org/archive/hot-takes-tuesday-for-2025-10-21/) 2025 Oct 21
- - [📈 Markets Monday for 2025-10-20](https://fudge.org/archive/markets-monday-for-2025-10-20/) 2025 Oct 20<hr>
+ - [🌶️ Hot Fudge Sunday for 2025-11-02](https://fudge.org/archive/hot-fudge-sunday-for-2025-11-02/) 2025 Nov 02
+ - [🔮 Sneak Peak Saturday for 2025-11-01](https://fudge.org/archive/sneak-peak-saturday-for-2025-11-01/) 2025 Nov 01
+ - [✅ Final Thoughts Friday for 2025-10-31](https://fudge.org/archive/final-thoughts-friday-for-2025-10-31/) 2025 Oct 31
+ - [🔙 Throwback Thursday for 2025-10-30](https://fudge.org/archive/throwback-thursday-for-2025-10-30/) 2025 Oct 30
+ - [🤪 Wacky Wednesday for 2025-10-29](https://fudge.org/archive/wacky-wednesday-for-2025-10-29/) 2025 Oct 29
+ - [🔥 Hot Takes Tuesday for 2025-10-28](https://fudge.org/archive/hot-takes-tuesday-for-2025-10-28/) 2025 Oct 28
+ - [📈 Markets Monday for 2025-10-27](https://fudge.org/archive/markets-monday-for-2025-10-27/) 2025 Oct 27<hr>
 <div align="center">
-My README.md was last auto generated Sun Oct 26 22:08:59 2025
+My README.md was last auto generated Sun Nov  2 21:08:47 2025
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
