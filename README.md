@@ -6,15 +6,15 @@
 - 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org) and [cuthrell.consulting](https://cuthrell.consulting)
+ - [Voice to Version 1.0](https://fudge.org/archive/voice-to-11ty/) 2026 Feb 15
  - [Eleventy in 2026](https://fudge.org/archive/11ty-in-2026/) 2026 Jan 10
  - [Inflated Expectations in Space](https://fudge.org/archive/inflated-space-habitats/) 2025 Dec 29
  - [Succession Planning for Space](https://fudge.org/archive/succession-planning/) 2025 Dec 28
  - [ULA and Sidus Space Leadership News](https://fudge.org/archive/ula-sidus-space-leadership-news/) 2025 Dec 27
  - [Blue Moves](https://fudge.org/archive/blue-moves/) 2025 Dec 26
- - [The Great Orbital Compute Pivot](https://fudge.org/archive/the-great-orbital-compute-pivot/) 2025 Dec 25
- - [Orbital Servicing, Reusable Rebounds, and Squabbles](https://fudge.org/archive/servicing-reusable-disputes/) 2025 Dec 24<hr>
+ - [The Great Orbital Compute Pivot](https://fudge.org/archive/the-great-orbital-compute-pivot/) 2025 Dec 25<hr>
 <div align="center">
-My README.md was last auto generated Sat Feb 14 21:09:57 2026
+My README.md was last auto generated Sun Feb 15 21:09:55 2026
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
