@@ -6,15 +6,15 @@
 - 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org) and [cuthrell.consulting](https://cuthrell.consulting)
+ - [What The Fudge for March 15, 2026](https://fudge.org/archive/wtf-001/) 2026 Mar 15
  - [The Podcasting Era](https://fudge.org/archive/podcasting/) 2026 Mar 06
  - [Voice to Version 1.0](https://fudge.org/archive/voice-to-11ty/) 2026 Feb 15
  - [Eleventy in 2026](https://fudge.org/archive/11ty-in-2026/) 2026 Jan 10
  - [Inflated Expectations in Space](https://fudge.org/archive/inflated-space-habitats/) 2025 Dec 29
  - [Succession Planning for Space](https://fudge.org/archive/succession-planning/) 2025 Dec 28
- - [ULA and Sidus Space Leadership News](https://fudge.org/archive/ula-sidus-space-leadership-news/) 2025 Dec 27
- - [Blue Moves](https://fudge.org/archive/blue-moves/) 2025 Dec 26<hr>
+ - [ULA and Sidus Space Leadership News](https://fudge.org/archive/ula-sidus-space-leadership-news/) 2025 Dec 27<hr>
 <div align="center">
-My README.md was last auto generated Sun Mar 15 22:10:06 2026
+My README.md was last auto generated Mon Mar 16 22:09:38 2026
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
