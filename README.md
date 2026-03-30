@@ -6,15 +6,15 @@
 - 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org) and [cuthrell.consulting](https://cuthrell.consulting)
+ - [What The Fudge: All Things AI, Digital Employees, and Solar Bricks](https://fudge.org/archive/wtf-003/) 2026 Mar 29
  - [Conference notes](https://fudge.org/archive/conference-notes/) 2026 Mar 26
  - [Trying out Sveltia CMS](https://fudge.org/archive/trying-out-sveltia-cms/) 2026 Mar 23
  - [What The Fudge for March 22, 2026: The Edge of Intelligence](https://fudge.org/archive/wtf-002/) 2026 Mar 22
  - [What The Fudge for March 15, 2026: WTF Begins](https://fudge.org/archive/wtf-001/) 2026 Mar 15
  - [The Podcasting Era](https://fudge.org/archive/podcasting/) 2026 Mar 06
- - [Voice to Version 1.0](https://fudge.org/archive/voice-to-11ty/) 2026 Feb 15
- - [Eleventy in 2026](https://fudge.org/archive/11ty-in-2026/) 2026 Jan 10<hr>
+ - [Voice to Version 1.0](https://fudge.org/archive/voice-to-11ty/) 2026 Feb 15<hr>
 <div align="center">
-My README.md was last auto generated Sat Mar 28 22:10:14 2026
+My README.md was last auto generated Sun Mar 29 22:10:18 2026
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
