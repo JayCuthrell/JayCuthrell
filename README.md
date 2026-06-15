@@ -6,16 +6,16 @@
 - 💼 Work: [NexusTek](https://nexustek.com)
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org) and [cuthrell.consulting](https://cuthrell.consulting)
+ - [What The Fudge for June 14, 2026: Trillionaires in Orbit and Agentic Intersections](https://fudge.org/archive/wtf-014/) 2026 Jun 14
  - [What The Fudge for June 07, 2026: The IPO Parade and Device-Level Agents](https://fudge.org/archive/wtf-013/) 2026 Jun 07
  - [What The Fudge for May 31, 2026: The I Am One Year Older Edition](https://fudge.org/archive/wtf-012/) 2026 May 31
  - [What The Fudge for May 24, 2026: The Paradigm Shift in Compute Infrastructure](https://fudge.org/archive/wtf-011/) 2026 May 24
  - [What The Fudge for May 17, 2026: Trillion-Dollar Valuations, Sovereign AI, and the Agentic Edge](https://fudge.org/archive/wtf-010/) 2026 May 17
  - [What The Fudge for May 10, 2026: Material Science, Policy as Code, and Quiet Supersonics](https://fudge.org/archive/wtf-009/) 2026 May 10
  - [What The Fudge for May 3, 2026: Agentic Intelligence and Super Learners](https://fudge.org/archive/wtf-008/) 2026 May 03
- - [What The Fudge for April 26, 2026: Waymos on the 101, Scaling the BIPC, and the SpaceX IPO Pivot](https://fudge.org/archive/wtf-007/) 2026 Apr 26
 <hr>
 <div align="center">
-My README.md was last auto generated Sat Jun 13 22:11:53 2026
+My README.md was last auto generated Sun Jun 14 22:12:09 2026
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
