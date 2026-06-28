@@ -11,11 +11,11 @@
  - [What The Fudge for June 14, 2026: Trillionaires in Orbit and Agentic Intersections](https://fudge.org/archive/wtf-014/) 2026 Jun 14
  - [What The Fudge for June 07, 2026: The IPO Parade and Device-Level Agents](https://fudge.org/archive/wtf-013/) 2026 Jun 07
  - [What The Fudge for May 31, 2026: The I Am One Year Older Edition](https://fudge.org/archive/wtf-012/) 2026 May 31
+ - [My Fediverse Digest for May 2026](https://fudge.org/archive/fediverse-digest-2026-05/) 2026 May 31
  - [What The Fudge for May 24, 2026: The Paradigm Shift in Compute Infrastructure](https://fudge.org/archive/wtf-011/) 2026 May 24
- - [What The Fudge for May 17, 2026: Trillion-Dollar Valuations, Sovereign AI, and the Agentic Edge](https://fudge.org/archive/wtf-010/) 2026 May 17
 <hr>
 <div align="center">
-My README.md was last auto generated Fri Jun 26 22:11:00 2026
+My README.md was last auto generated Sat Jun 27 22:11:25 2026
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
