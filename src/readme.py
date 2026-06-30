@@ -16,7 +16,8 @@ YOUTUBE_CHANNEL_ID = "UCi_sC2b2aQ-s4-g2aem2_3w"
 def update_footer():
     """Generates the footer with the current timestamp."""
     now = datetime.datetime.now(pytz.timezone("America/New_York"))
-    return f"""
+    return f"""<!-- footer_start -->
+<div align="center">This README.md is updated on {now.strftime('%c')}</div>
 <hr>
 <div align="center">
 My README.md was last auto generated {now.strftime("%c")}
@@ -27,7 +28,7 @@ This auto generated README.md file is created by code based on examples from <a 
 <br>
 <a href="https://github.com/JayCuthrell/JayCuthrell/actions"><img src="https://github.com/JayCuthrell/JayCuthrell/actions/workflows/cron.yml/badge.svg?branch=master" align="center" alt="Build README"></a>
 </div>
-"""
+<!-- footer_end -->"""
 
 def fetch_rss_entries(rss_feed_url, limit=7):
     """Fetches and parses an RSS feed."""
@@ -78,6 +79,13 @@ if __name__ == "__main__":
         f"<!-- recent_posts_start -->\n{posts_md}\n<!-- recent_posts_end -->",
         readme_text
     )
-
+    
+    # Use regex to find and replace the content between the footer markers
+    updated_readme = re.sub(
+        r"(?s)<!-- footer_start -->.*<!-- footer_end -->",
+        update_footer(),
+        updated_readme
+    )
+    
     with open(readme_path, "w", encoding="utf-8") as f:
-        f.write(updated_readme + update_footer())
+        f.write(updated_readme)

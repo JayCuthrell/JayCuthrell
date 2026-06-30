@@ -16,24 +16,5 @@
  - 📰 [My Fediverse Digest for May 2026](https://fudge.org/archive/fediverse-digest-2026-05/) 2026 May 31
 <!-- recent_posts_end -->
 
-<hr>
-<div align="center">
-My README.md was last auto generated Mon Jun 29 22:25:46 2026
-<br>
-  <link href="https://github.com/jaycuthrell" rel="me">
-  <link href="https://fudge.org" rel="me">
-This auto generated README.md file is created by code based on examples from <a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">@dylanroy</a> and <a href="https://github.com/eugeneyan" target="_blank">@eugeneyan</a>.
-<br>
-<a href="https://github.com/JayCuthrell/JayCuthrell/actions"><img src="https://github.com/JayCuthrell/JayCuthrell/actions/workflows/cron.yml/badge.svg?branch=master" align="center" alt="Build README"></a>
-</div>
-
-<hr>
-<div align="center">
-My README.md was last auto generated Mon Jun 29 22:28:59 2026
-<br>
-  <link href="https://github.com/jaycuthrell" rel="me">
-  <link href="https://fudge.org" rel="me">
-This auto generated README.md file is created by code based on examples from <a href="https://towardsdatascience.com/auto-updating-your-github-profile-with-python-cde87b638168" target="_blank">@dylanroy</a> and <a href="https://github.com/eugeneyan" target="_blank">@eugeneyan</a>.
-<br>
-<a href="https://github.com/JayCuthrell/JayCuthrell/actions"><img src="https://github.com/JayCuthrell/JayCuthrell/actions/workflows/cron.yml/badge.svg?branch=master" align="center" alt="Build README"></a>
-</div>
+<!-- footer_start -->
+<!-- footer_end -->
