@@ -31,14 +31,19 @@ This auto generated README.md file is created by code based on examples from <a 
 
 def fetch_rss_entries(rss_feed_url, limit=7):
     """Fetches and parses an RSS feed."""
-    rss_feed = feedparser.parse(rss_feed_url)
-    return rss_feed.entries[:limit]
+    try:
+        rss_feed = feedparser.parse(rss_feed_url)
+        if rss_feed.bozo:
+            print(f"Warning: Malformed feed at {rss_feed_url}. Bozo reason: {rss_feed.bozo_exception}")
+        return rss_feed.entries[:limit]
+    except Exception as e:
+        print(f"Error fetching or parsing RSS feed at {rss_feed_url}: {e}")
+        return []
 
 def fetch_youtube_entries(channel_id, limit=7):
     """Fetches and parses a YouTube RSS feed."""
     rss_feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-    rss_feed = feedparser.parse(rss_feed_url)
-    return rss_feed.entries[:limit]
+    return fetch_rss_entries(rss_feed_url, limit)
 
 if __name__ == "__main__":
     fudge_feed = fetch_rss_entries("https://fudge.org/feed.xml")
@@ -50,14 +55,20 @@ if __name__ == "__main__":
         reverse=True
     )
 
-    posts_md = "\n".join(
-        [
-            f" - {emoji.emojize(':video_camera:')} [{item.title}]({item.link}) {datetime.datetime(*item.updated_parsed[:6]).strftime('%Y %b %d')}"
-            if "youtube.com" in item.link
-            else f" - {emoji.emojize(':newspaper:')} [{item.title}]({item.link}) {datetime.datetime(*item.updated_parsed[:6]).strftime('%Y %b %d')}"
-            for item in all_entries[:7]
-        ]
-    )
+    posts_md_lines = []
+    for item in all_entries[:7]:
+        published_date = datetime.datetime(*item.updated_parsed[:6]).strftime('%Y %b %d')
+        
+        if "youtube.com" in item.link:
+            emoji_char = emoji.emojize(':video_camera:')
+        elif 'enclosures' in item and any('audio' in e.get('type', '') for e in item.enclosures):
+            emoji_char = emoji.emojize(':studio_microphone:')
+        else:
+            emoji_char = emoji.emojize(':newspaper:')
+            
+        posts_md_lines.append(f" - {emoji_char} [{item.title}]({item.link}) {published_date}")
+
+    posts_md = "\n".join(posts_md_lines)
 
     readme_text = readme_path.read_text(encoding="utf-8")
 
