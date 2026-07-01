@@ -14,6 +14,12 @@ readme_path = project_root / 'README.md'
 # Constants
 YOUTUBE_CHANNEL_ID = "UC0gbzQXghnt-4cgci-VpodQ"
 YOUTUBE_CACHE_PATH = src_dir / 'youtube_cache.json'
+FEEDS = [
+    {"name": "Fudge.org", "url": "https://fudge.org/feed.xml"},
+    {"name": "Cuthrell.consulting", "url": "https://cuthrell.consulting/feed.xml"},
+    {"name": "YouTube", "url": f"https://www.youtube.com/feeds/videos.xml?channel_id={YOUTUBE_CHANNEL_ID}"},
+]
+
 
 def update_footer():
     """Generates the footer with the current timestamp."""
@@ -64,19 +70,22 @@ def fetch_youtube_entries(channel_id, limit=7, cache_path=YOUTUBE_CACHE_PATH):
     return []
 
 if __name__ == "__main__":
-    fudge_feed = fetch_rss_entries("https://fudge.org/feed.xml")
-    consulting_feed = fetch_rss_entries("https://cuthrell.consulting/feed.xml")
-    youtube_feed = fetch_youtube_entries(YOUTUBE_CHANNEL_ID)
-    all_entries = sorted(
-        fudge_feed + consulting_feed + youtube_feed,
-        key=lambda item: item.updated_parsed,
-        reverse=True
-    )
+    all_entries = []
+    for feed in FEEDS:
+        if "youtube.com" in feed["url"]:
+            all_entries.extend(fetch_youtube_entries(YOUTUBE_CHANNEL_ID))
+        else:
+            all_entries.extend(fetch_rss_entries(feed["url"]))
+
+    # Filter out entries that do not have the 'updated_parsed' attribute
+    valid_entries = [item for item in all_entries if hasattr(item, 'updated_parsed') and item.updated_parsed]
+
+    # Sort the valid entries by date
+    sorted_entries = sorted(valid_entries, key=lambda item: item.updated_parsed, reverse=True)
 
     posts_md_lines = []
-    for item in all_entries[:7]:
+    for item in sorted_entries[:7]:
         published_date = datetime.datetime(*item.updated_parsed[:6]).strftime('%Y %b %d')
-        
         if "youtube.com" in item.link:
             emoji_char = emoji.emojize(':video_camera:')
         elif 'enclosures' in item and any('audio' in e.get('type', '') for e in item.enclosures):
