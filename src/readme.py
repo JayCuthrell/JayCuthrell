@@ -1,6 +1,7 @@
 from pathlib import Path
 import datetime
 import feedparser
+import json
 import pytz
 import re
 import emoji
@@ -12,6 +13,7 @@ readme_path = project_root / 'README.md'
 
 # Constants
 YOUTUBE_CHANNEL_ID = "UCi_sC2b2aQ-s4-g2aem2_3w"
+YOUTUBE_CACHE_PATH = src_dir / 'youtube_cache.json'
 
 def update_footer():
     """Generates the footer with the current timestamp."""
@@ -41,10 +43,25 @@ def fetch_rss_entries(rss_feed_url, limit=7):
         print(f"Error fetching or parsing RSS feed at {rss_feed_url}: {e}")
         return []
 
-def fetch_youtube_entries(channel_id, limit=7):
-    """Fetches and parses a YouTube RSS feed."""
+def fetch_youtube_entries(channel_id, limit=7, cache_path=YOUTUBE_CACHE_PATH):
+    """
+    Fetches and parses a YouTube RSS feed with caching.
+    Returns entries from live feed if successful, otherwise from cache.
+    """
     rss_feed_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-    return fetch_rss_entries(rss_feed_url, limit)
+    live_entries = fetch_rss_entries(rss_feed_url, limit)
+
+    if live_entries:
+        # Save successful fetch to cache
+        with open(cache_path, 'w', encoding='utf-8') as f:
+            json.dump(live_entries, f, indent=2)
+        return live_entries
+    
+    print("Fetching YouTube feed failed. Attempting to load from cache.")
+    if cache_path.exists():
+        return json.loads(cache_path.read_text(encoding="utf-8"))
+    
+    return []
 
 if __name__ == "__main__":
     fudge_feed = fetch_rss_entries("https://fudge.org/feed.xml")
