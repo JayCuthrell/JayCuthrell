@@ -12,7 +12,7 @@ project_root = src_dir.parent
 readme_path = project_root / 'README.md'
 
 # Constants
-YOUTUBE_CHANNEL_ID = "UCi_sC2b2aQ-s4-g2aem2_3w"
+YOUTUBE_CHANNEL_ID = "UC0gbzQXghnt-4cgci-VpodQ"
 YOUTUBE_CACHE_PATH = src_dir / 'youtube_cache.json'
 
 def update_footer():
