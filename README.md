@@ -7,20 +7,20 @@
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org) and [cuthrell.consulting](https://cuthrell.consulting)
 <!-- recent_posts_start -->
+ - 📹 [What The Fudge for July 05, 2026: AI Infrastructure Oops, Token Rationing, and Digital-Only Mandates](https://www.youtube.com/watch?v=_ZJfK7hbx5A) 2026 Jul 05
  - 📰 [What The Fudge for July 05, 2026: AI Infrastructure Oops, Token Rationing, and Digital-Only Mandates](https://fudge.org/archive/wtf-017/) 2026 Jul 05
+ - 📹 [What The Fudge for May 31, 2026: The I Am One Year Older Edition](https://www.youtube.com/watch?v=hvPsp3sR4Xs) 2026 Jul 01
  - 📰 [My Fediverse Digest for June 2026](https://fudge.org/archive/fediverse-digest-2026-06/) 2026 Jun 30
+ - 📹 [What The Fudge for June 28, 2026: Cost Crunch, IPO Chill, and Agentic Future](https://www.youtube.com/watch?v=RTc_VLe36lc) 2026 Jun 28
  - 📰 [What The Fudge for June 28, 2026: Cost Crunch, IPO Chill, and Agentic Future](https://fudge.org/archive/wtf-016/) 2026 Jun 28
- - 📰 [What The Fudge for June 21, 2026: Semiconductor Crunches, Export Playbooks, and AI Slop](https://fudge.org/archive/wtf-015/) 2026 Jun 21
- - 📰 [Ship Left](https://fudge.org/archive/ship-left/) 2026 Jun 15
- - 📰 [What The Fudge for June 14, 2026: Trillionaires in Orbit and Agentic Intersections](https://fudge.org/archive/wtf-014/) 2026 Jun 14
- - 📰 [What The Fudge for June 07, 2026: The IPO Parade and Device-Level Agents](https://fudge.org/archive/wtf-013/) 2026 Jun 07
+ - 📹 [What The Fudge for May 24, 2026: The Paradigm Shift in Compute Infrastructure](https://www.youtube.com/watch?v=naby2eI9BAI) 2026 Jun 24
 <!-- recent_posts_end -->
 
 <!-- footer_start -->
-<div align="center">This README.md is updated on Fri Jul 10 01:12:21 2026</div>
+<div align="center">This README.md is updated on Sat Jul 11 00:32:04 2026</div>
 <hr>
 <div align="center">
-My README.md was last auto generated Fri Jul 10 01:12:21 2026
+My README.md was last auto generated Sat Jul 11 00:32:04 2026
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
