@@ -7,20 +7,20 @@
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org) and [cuthrell.consulting](https://cuthrell.consulting)
 <!-- recent_posts_start -->
+ - 📹 [What The Fudge for July 26, 2026: Infrastructure, Intrigue, Distillation Drama, and HWaaS](https://www.youtube.com/watch?v=s8OmJVIM7OE) 2026 Jul 27
+ - 📰 [What The Fudge for July 26, 2026: Infrastructure, Intrigue, Distillation Drama, and HWaaS](https://fudge.org/archive/wtf-020/) 2026 Jul 26
  - 📹 [What The Fudge for July 19, 2026: Open-Source AI, Regulatory Headwinds, and Enterprise Capital](https://www.youtube.com/watch?v=3Cn9jO6ufHY) 2026 Jul 19
  - 📰 [What The Fudge for July 19, 2026: Open-Source AI, Regulatory Headwinds, and Enterprise Capital](https://fudge.org/archive/wtf-019/) 2026 Jul 19
  - 📹 [What The Fudge for June 14, 2026: Trillionaires in Orbit and Agentic Intersections](https://www.youtube.com/watch?v=kaKjgIxsl14) 2026 Jul 16
  - 📹 [What The Fudge for July 12, 2026: On-Device AI, Memory Boom, and Big Tech Pivots](https://www.youtube.com/watch?v=JIU5URI-evk) 2026 Jul 12
  - 📰 [What The Fudge for July 12, 2026: On-Device AI, Memory Boom, and Big Tech Pivots](https://fudge.org/archive/wtf-018/) 2026 Jul 12
- - 📹 [What The Fudge for June 07, 2026: The IPO Parade and Device-Level Agents](https://www.youtube.com/watch?v=UO4d73kd230) 2026 Jul 09
- - 📹 [What The Fudge for July 05, 2026: AI Infrastructure Oops, Token Rationing, and Digital-Only Mandates](https://www.youtube.com/watch?v=_ZJfK7hbx5A) 2026 Jul 05
 <!-- recent_posts_end -->
 
 <!-- footer_start -->
-<div align="center">This README.md is updated on Sun Jul 26 00:47:39 2026</div>
+<div align="center">This README.md is updated on Mon Jul 27 00:57:25 2026</div>
 <hr>
 <div align="center">
-My README.md was last auto generated Sun Jul 26 00:47:39 2026
+My README.md was last auto generated Mon Jul 27 00:57:25 2026
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
