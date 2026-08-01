@@ -7,20 +7,20 @@
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org) and [cuthrell.consulting](https://cuthrell.consulting)
 <!-- recent_posts_start -->
+ - 📰 [My Fediverse Digest for July 2026](https://fudge.org/archive/fediverse-digest-2026-07/) 2026 Jul 31
+ - 📹 [What The Fudge for July 26, 2026: Infrastructure, Intrigue, Distillation Drama, and HWaaS](https://www.youtube.com/watch?v=s8OmJVIM7OE) 2026 Jul 27
  - 📰 [What The Fudge for July 26, 2026: Infrastructure, Intrigue, Distillation Drama, and HWaaS](https://fudge.org/archive/wtf-020/) 2026 Jul 26
+ - 📹 [What The Fudge for July 19, 2026: Open-Source AI, Regulatory Headwinds, and Enterprise Capital](https://www.youtube.com/watch?v=3Cn9jO6ufHY) 2026 Jul 19
  - 📰 [What The Fudge for July 19, 2026: Open-Source AI, Regulatory Headwinds, and Enterprise Capital](https://fudge.org/archive/wtf-019/) 2026 Jul 19
- - 📰 [What The Fudge for July 12, 2026: On-Device AI, Memory Boom, and Big Tech Pivots](https://fudge.org/archive/wtf-018/) 2026 Jul 12
- - 📰 [What The Fudge for July 05, 2026: AI Infrastructure Oops, Token Rationing, and Digital-Only Mandates](https://fudge.org/archive/wtf-017/) 2026 Jul 05
- - 📰 [My Fediverse Digest for June 2026](https://fudge.org/archive/fediverse-digest-2026-06/) 2026 Jun 30
- - 📰 [What The Fudge for June 28, 2026: Cost Crunch, IPO Chill, and Agentic Future](https://fudge.org/archive/wtf-016/) 2026 Jun 28
- - 📰 [What The Fudge for June 21, 2026: Semiconductor Crunches, Export Playbooks, and AI Slop](https://fudge.org/archive/wtf-015/) 2026 Jun 21
+ - 📹 [What The Fudge for June 14, 2026: Trillionaires in Orbit and Agentic Intersections](https://www.youtube.com/watch?v=kaKjgIxsl14) 2026 Jul 16
+ - 📹 [What The Fudge for July 12, 2026: On-Device AI, Memory Boom, and Big Tech Pivots](https://www.youtube.com/watch?v=JIU5URI-evk) 2026 Jul 12
 <!-- recent_posts_end -->
 
 <!-- footer_start -->
-<div align="center">This README.md is updated on Fri Jul 31 00:48:43 2026</div>
+<div align="center">This README.md is updated on Sat Aug  1 00:42:53 2026</div>
 <hr>
 <div align="center">
-My README.md was last auto generated Fri Jul 31 00:48:43 2026
+My README.md was last auto generated Sat Aug  1 00:42:53 2026
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
