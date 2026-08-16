@@ -7,20 +7,20 @@
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org) and [cuthrell.consulting](https://cuthrell.consulting)
 <!-- recent_posts_start -->
+ - 📹 [What The Fudge for July 05, 2026: AI Infrastructure Oops, Token Rationing, and Digital-Only Mandates](https://www.youtube.com/watch?v=_ZJfK7hbx5A) 2026 Aug 10
  - 📹 [What The Fudge for August 9, 2026: Infrastructure, Agents, and Realignments](https://www.youtube.com/watch?v=hKjZxhY3bl0) 2026 Aug 09
  - 📰 [What The Fudge for August 9, 2026: Infrastructure, Agents, and Realignments](https://fudge.org/archive/wtf-022/) 2026 Aug 09
  - 📹 [What The Fudge for August 2, 2026: AI Expansion, Safety, and Markets](https://www.youtube.com/watch?v=7X-Z7ib_WAg) 2026 Aug 02
  - 📰 [What The Fudge for August 2, 2026: AI Expansion, Safety, and Markets](https://fudge.org/archive/wtf-021/) 2026 Aug 02
  - 📰 [My Fediverse Digest for July 2026](https://fudge.org/archive/fediverse-digest-2026-07/) 2026 Jul 31
  - 📹 [What The Fudge for June 28, 2026: Cost Crunch, IPO Chill, and Agentic Future](https://www.youtube.com/watch?v=RTc_VLe36lc) 2026 Jul 29
- - 📹 [What The Fudge for July 26, 2026: Infrastructure, Intrigue, Distillation Drama, and HWaaS](https://www.youtube.com/watch?v=s8OmJVIM7OE) 2026 Jul 27
 <!-- recent_posts_end -->
 
 <!-- footer_start -->
-<div align="center">This README.md is updated on Fri Aug 14 22:27:39 2026</div>
+<div align="center">This README.md is updated on Sat Aug 15 22:36:19 2026</div>
 <hr>
 <div align="center">
-My README.md was last auto generated Fri Aug 14 22:27:39 2026
+My README.md was last auto generated Sat Aug 15 22:36:19 2026
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
