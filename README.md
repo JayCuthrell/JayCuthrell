@@ -7,20 +7,20 @@
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org) and [cuthrell.consulting](https://cuthrell.consulting)
 <!-- recent_posts_start -->
+ - 📰 [What The Fudge for September 20, 2026: Design Fiction, Autonomy, and Kinetic Infrastructure](https://fudge.org/archive/wtf-025/) 2026 Sep 20
  - 📰 [My Fediverse Digest for August 2026](https://fudge.org/archive/fediverse-digest-2026-08/) 2026 Aug 31
  - 📰 [What The Fudge for August 23, 2026: AI Infrastructure, Economics, and Tokens](https://fudge.org/archive/wtf-024/) 2026 Aug 23
  - 📰 [What The Fudge for August 16, 2026: Capabilities, Strategies, and Realities](https://fudge.org/archive/wtf-023/) 2026 Aug 16
  - 📰 [What The Fudge for August 9, 2026: Infrastructure, Agents, and Realignments](https://fudge.org/archive/wtf-022/) 2026 Aug 09
  - 📰 [What The Fudge for August 2, 2026: AI Expansion, Safety, and Markets](https://fudge.org/archive/wtf-021/) 2026 Aug 02
  - 📰 [My Fediverse Digest for July 2026](https://fudge.org/archive/fediverse-digest-2026-07/) 2026 Jul 31
- - 📰 [What The Fudge for July 26, 2026: Infrastructure, Intrigue, Distillation Drama, and HWaaS](https://fudge.org/archive/wtf-020/) 2026 Jul 26
 <!-- recent_posts_end -->
 
 <!-- footer_start -->
-<div align="center">This README.md is updated on Sun Sep 20 02:27:04 2026</div>
+<div align="center">This README.md is updated on Mon Sep 21 02:33:24 2026</div>
 <hr>
 <div align="center">
-My README.md was last auto generated Sun Sep 20 02:27:04 2026
+My README.md was last auto generated Mon Sep 21 02:33:24 2026
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
