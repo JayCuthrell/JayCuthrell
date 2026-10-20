@@ -7,20 +7,20 @@
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org) and [cuthrell.consulting](https://cuthrell.consulting)
 <!-- recent_posts_start -->
- - 📹 [What The Fudge for August 23, 2026: AI Infrastructure, Economics, and Tokens](https://www.youtube.com/watch?v=UJChzGrkKM4) 2026 Oct 15
- - 📹 [What The Fudge for August 16, 2026: Capabilities, Strategies, and Realities](https://www.youtube.com/watch?v=eZh5RvOIzHI) 2026 Oct 13
- - 📹 [What The Fudge for September 27, 2026: Quantum Momentum, Orbital AI, and the Agentic OS](https://www.youtube.com/watch?v=LDsfZKDOKdg) 2026 Oct 13
- - 📹 [What The Fudge for October 11, 2026: AI Outreach, Core Acquisitions, and Agent Liability](https://www.youtube.com/watch?v=y2V2qPF3dB8) 2026 Oct 12
+ - 📰 [What The Fudge for October 18, 2026: AI in the Workplace, Security Paradoxes, Funding, and M&A](https://fudge.org/archive/wtf-029/) 2026 Oct 18
  - 📰 [What The Fudge for October 11, 2026: AI Outreach, Core Acquisitions, and Agent Liability](https://fudge.org/archive/wtf-028/) 2026 Oct 11
- - 📹 [What The Fudge for August 9, 2026: Infrastructure, Agents, and Realignments](https://www.youtube.com/watch?v=hKjZxhY3bl0) 2026 Oct 08
- - 📹 [What The Fudge for September 20, 2026: Design Fiction, Autonomy, and Kinetic Infrastructure](https://www.youtube.com/watch?v=WpCp3VrOgkI) 2026 Oct 07
+ - 📰 [What The Fudge for October 04, 2026: Agents, Cybersecurity, and the Edge](https://fudge.org/archive/wtf-027/) 2026 Oct 04
+ - 📰 [My Fediverse Digest for September 2026](https://fudge.org/archive/fediverse-digest-2026-09/) 2026 Sep 30
+ - 📰 [What The Fudge for September 27, 2026: Quantum Momentum, Orbital AI, and the Agentic OS](https://fudge.org/archive/wtf-026/) 2026 Sep 27
+ - 📰 [What The Fudge for September 20, 2026: Design Fiction, Autonomy, and Kinetic Infrastructure](https://fudge.org/archive/wtf-025/) 2026 Sep 20
+ - 📰 [My Fediverse Digest for August 2026](https://fudge.org/archive/fediverse-digest-2026-08/) 2026 Aug 31
 <!-- recent_posts_end -->
 
 <!-- footer_start -->
-<div align="center">This README.md is updated on Sun Oct 18 21:44:04 2026</div>
+<div align="center">This README.md is updated on Mon Oct 19 21:40:23 2026</div>
 <hr>
 <div align="center">
-My README.md was last auto generated Sun Oct 18 21:44:04 2026
+My README.md was last auto generated Mon Oct 19 21:40:23 2026
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
