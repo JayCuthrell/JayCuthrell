@@ -16,8 +16,9 @@ YOUTUBE_CHANNEL_ID = "UC0gbzQXghnt-4cgci-VpodQ"
 YOUTUBE_CACHE_PATH = src_dir / 'youtube_cache.json'
 FEEDS = [
     {"name": "Fudge.org", "url": "https://fudge.org/feed.xml"},
-    {"name": "Cuthrell.consulting", "url": "https://cuthrell.consulting/feed.xml"},
-    {"name": "YouTube", "url": f"https://www.youtube.com/feeds/videos.xml?channel_id={YOUTUBE_CHANNEL_ID}"},
+# cleanup    {"name": "YouTube", "url": f"https://www.youtube.com/feeds/videos.xml?channel_id={YOUTUBE_CHANNEL_ID}"},
+    {"name": "Cuthrell.consulting", "url": "https://cuthrell.consulting/feed.xml"}
+
 ]
 
 
