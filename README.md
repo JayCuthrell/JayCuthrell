@@ -7,20 +7,20 @@
 
 ### Recent Newsletter Issues by Jay Cuthrell on [fudge.org](https://fudge.org) and [cuthrell.consulting](https://cuthrell.consulting)
 <!-- recent_posts_start -->
+ - 📰 [What The Fudge for November 22, 2026: A Record IPO, Licensing, and Scale](https://fudge.org/archive/wtf-034/) 2026 Nov 22
  - 📰 [What The Fudge for November 15, 2026: Leadership Transition, Debt Discipline, and Capital Flows](https://fudge.org/archive/wtf-033/) 2026 Nov 15
  - 📰 [What The Fudge for November 8, 2026: Elections and Electrons](https://fudge.org/archive/wtf-032/) 2026 Nov 08
  - 📰 [What The Fudge for November 1, 2026: $3T CAPEX Reckoning, Credit Tightrope, and Enterprise Flows](https://fudge.org/archive/wtf-031/) 2026 Nov 01
  - 📰 [What The Fudge for October 25, 2026: PHP2Shell, Capital, and Infrastructure Lock-In](https://fudge.org/archive/wtf-030/) 2026 Oct 25
  - 📰 [What The Fudge for October 18, 2026: AI in the Workplace, Security Paradoxes, Funding, and M&A](https://fudge.org/archive/wtf-029/) 2026 Oct 18
  - 📰 [What The Fudge for October 11, 2026: AI Outreach, Core Acquisitions, and Agent Liability](https://fudge.org/archive/wtf-028/) 2026 Oct 11
- - 📰 [What The Fudge for October 04, 2026: Agents, Cybersecurity, and the Edge](https://fudge.org/archive/wtf-027/) 2026 Oct 04
 <!-- recent_posts_end -->
 
 <!-- footer_start -->
-<div align="center">This README.md is updated on Sun Nov 22 00:21:14 2026</div>
+<div align="center">This README.md is updated on Sun Nov 22 20:27:43 2026</div>
 <hr>
 <div align="center">
-My README.md was last auto generated Sun Nov 22 00:21:14 2026
+My README.md was last auto generated Sun Nov 22 20:27:43 2026
 <br>
   <link href="https://github.com/jaycuthrell" rel="me">
   <link href="https://fudge.org" rel="me">
